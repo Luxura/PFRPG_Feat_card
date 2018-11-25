@@ -12,9 +12,9 @@ Etape 1: Chose and download one/all of the file,
 
 Etape 2: Go to http://crobi.github.io/rpg-cards/generator/generate.html and use the "Load from file" option,
 
-Etape 3: In the "Arrangement field" chose the "Side by side or Front side only" option.
+Etape 3: In the "Arrangement field" chose the "Side by side or Front side only...".
 
-Etape 4: Click Generate
+Etape 4: Click Generate. If nothing happen, you may need to click generate a second time with another "Arrangement option".
 
 Etape 5: ???
 

@@ -1,0 +1,2261 @@
+[{
+	"count": 1,
+	"color": "Maroon",
+	"title": "Abundant Revelations",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Mystery class feature.",
+		"rule",
+		"fill | 1",
+		"text |You can plumb the depths of your mystery to use your revelations more often.",
+		"fill | 1",
+		"text |Choose one of your revelations that has a number of uses per day. You gain 1 additional use per day of that revelation.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Accursed Critical",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Critical Focus, ability to cast bestow curse or major curse, caster level 9th.",
+		"rule",
+		"fill | 1",
+		"text |Your spells carry an embedded curse that manifests when they strike true.",
+		"fill | 1",
+		"text |When you confirm a critical hit with a spell or spell-like ability, you may cast bestow curse or major curse on that target as an immediate action. This works even with ranged spells. You must have bestow curse or major curse prepared or otherwise available to cast, and using this ability casts the corresponding spell.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Accursed Hex",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Hex class feature.",
+		"rule",
+		"fill | 1",
+		"text |You can make a second attempt at failed hexes.",
+		"fill | 1",
+		"text |When you target a creature with a hex that cannot target the same creature more than once per day, and that creature succeeds at its saving throw against the hex's effect, you can target the creature with the same hex a second time before the end of your next turn. If the second attempt fails, you can make no further attempts to target that creature with the same hex for 1 day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Advanced Ranger Trap",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Trap class feature, ranger level 5th.",
+		"rule",
+		"fill | 1",
+		"text |Your ranger traps are especially difficult to notice and avoid.",
+		"fill | 1",
+		"text |Add +1 to the Difficulty Class on all Perception and Disable Device skill checks to find or disable the traps you make with your trap class feature. Add a +1 to the Difficulty Class on all saving throws against the effects of the trap you make with your trap class feature.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Antagonize",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |Whether with biting remarks or hurtful words, you are adept at making creatures angry with you.",
+		"fill | 1",
+		"text |You can make Diplomacy and Intimidate checks to make creatures respond to you with hostility. No matter which skill you use, antagonizing a creature takes a standard action that does not provoke attacks of opportunity, and has a DC equal to 10 + the target's Hit Dice + the target's Wisdom modifier. You cannot make this check against a creature that does not understand you or has an Intelligence score of 3 or lower. Before you make these checks, you may make a Sense Motive check (DC 20) as a swift action to gain an insight bonus on these Diplomacy or Intimitade checks equal to your Charisma bonus until the end of your next turn. The benefits you gain for this check depend on the skill you use. This is a mind-affecting effect.  Diplomacy: You fluster your enemy. For the next minute, the target takes a -2 penalty on all attacks rolls made against creatures other than you and has a 10% spell failure chance on all spells that do not target you or that have you within their area of effect.  Intimidate: The creature flies into a rage. On its next turn, the target must attempt to make a melee attack against you, make a ranged attack against you, target you with a spell, or include you in the area of a spell. The effect ends if the creature is prevented from attacking you or attempting to do so would harm it (for example, if you are on the other side of a chasm or a wall of fire). If it cannot attack you on its turn, you may make the check again as an immediate action to extend the effect for 1 round (but cannot extend it thereafter). The effect ends as soon as the creature melee  attacks you. Once you have targeted a creature with this ability, you cannot target it again for 1 day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Arcane Builder",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |You have an exceptional understanding of the theory behind creating magical items.",
+		"fill | 1",
+		"text |Select one type of magic item (potions, wondrous items, and so on). You create items of this type 25% faster than normal, and gain a +4 bonus on Spellcraft checks (or other checks, as appropriate) to craft items of this type.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Blighted Critical",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Caster level 5th.",
+		"rule",
+		"fill | 1",
+		"text |With a critical hit from a spell or spell-like ability, you give the target a minor spellblight.",
+		"fill | 1",
+		"text |Whenever you confirm a critical hit with a touch spell, ranged touch spell, or spell-like ability against an opponent, the victim gains a random minor spellblight (see page 95).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Blighted Critical Mastery",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Blighted Critical, caster level 9th.",
+		"rule",
+		"fill | 1",
+		"text |You control the type of spellblight your critical hits give your opponent.",
+		"fill | 1",
+		"text |Whenever you apply a spellblight by way of the Blighted Critical or Greater Blighted critical feat, you can choose the spellblight you apply rather than determining it randomly.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Burning Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |You cause creatures to take extra damage when you affect them with a spell that has the acid or fire descriptor.",
+		"fill | 1",
+		"text |The acid or fire effects of the affected spell adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected spell, that creature takes damage equal to 2 x the spell's actual level at the start of its next turn. The damage is acid or fire, as determined by the spell's descriptor. If a burning spell has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning spell effect. A burning spell uses up a slot two levels higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Channeled Shield Wall",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Channel energy, 3d6 prof iciency with a shield.",
+		"rule",
+		"fill | 1",
+		"text |You draw on your channel energy to enhance the protective ability of your shield and those of adjacent allies.",
+		"fill | 1",
+		"text |As a swift action, you can spend a use of your channel energy to grant yourself a +2 def lection bonus while using a shield. This bonus lasts 1 minute per cleric level or effective cleric level. While you benefit from this bonus, allies with shields also gain a +2 def lection bonus while they are adjacent to you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Concussive Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |You cause creatures to be disoriented when you affect them with a spell that has the sonic descriptor.",
+		"fill | 1",
+		"text |With sonic damage comes a concussive wave of energy that rattles creatures affected by the spell.   A concussive spell causes creatures that take damage from a spell that has the sonic descriptor to take a -2 penalty on attack rolls, saving throws, skill checks, and ability checks for a number of rounds equal to the actual spell level of the spell. A concussive spell only affects spells with the sonic descriptor. A concussive spell uses up a spell slot two levels higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Create Reliquary Arms and Shields",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Craft Magic Arms and Armor, ability to cast consecrate or desecrate.",
+		"rule",
+		"fill | 1",
+		"text |Your magical creations are infused with divine power.",
+		"fill | 1",
+		"text |When you craft a magic weapon, magic armor, or magic shield, you may add one casting of consecrate or desecrate as part of the item crafting process. This increases the item's Price by 250 gp. The item becomes a reliquary and can be used as a holy (or unholy) symbol divine focus of your deity. If you cast consecrate or desecrate, your reliquary counts as a permanent fixture for that spell while it remains in the spell's area.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Create Sanguine Elixir",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd.",
+		"rule",
+		"fill | 1",
+		"text |You can condense a fraction of your bloodline's power into a powerful elixir.",
+		"fill | 1",
+		"text |Once per day, when you clear your mind to regain spell slots, you can create a sanguine elixir. When you do, pick one of your bloodline powers. You transfer that power into a small potion that any creature can drink to temporarily gain the benefit of your bloodline power. Creating a sanguine elixir takes 1 hour, and requires special oils and distillates worth 100 gp, and when you make the sanguine elixir, you lose access to the bloodline power until the next time you clear your mind to regain spell slots.  When a creature drinks a sanguine elixir, it can activate the bloodline power anytime before the end of its next turn, as if it had access to that bloodline power. A creature that drinks the elixir cannot gain the benefit if its character level does not equal or exceed the minimum level of the bloodline power. Any level-dependent effects use the character level of the creature that drinks the sanguine elixir, or your sorcerer level, whichever is lower. Drinking a sanguine elixir is just like drinking a potion. A sanguine elixir is treated as a magic item with your caster level.  Sanguine elixirs are extremely unstable. They lose their potency 1 day after they are created.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Defending Eidolon",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Shield ally feature.",
+		"rule",
+		"fill | 1",
+		"text |You have trained your eidolon to protect you.",
+		"fill | 1",
+		"text |Whenever you are adjacent to your eidolon, you can choose for the eidolon to take a -1 penalty on melee  attack rolls and combat maneuver checks to gain a +1 dodge bonus to your Armor Class. When your eidolon's base attack bonus reaches +5, and for every +5 thereafter, the penalty increases by -1 and the dodge bonus increases by +1. You must choose to use this feat when your eidolon is making an attack or full-attack action with melee or natural weapons, and its effect lasts until your eidolon's next turn, or until you are no longer adjacent to the eidolon, whichever occurs first.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Deny Death",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Ki pool, Endurance",
+		"rule",
+		"fill | 1",
+		"text |Your ki is so strong that it can deny death.",
+		"fill | 1",
+		"text |As long as you have 1 ki point in your ki pool, when you fail your Constitution check to stabilize, you do not lose 1 hit point. If you succeed at the check, you can spend 1 ki point to heal 1d6 hit points. If you roll a natural 20 on the check to stabilize, you can spend 1 ki point to heal 2d6 hit points of damage instead.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Detect Expertise",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Int 13; ability to cast detect chaos, detect evil, detect good, detect law, or detect magic.",
+		"rule",
+		"fill | 1",
+		"text |You can detect the mystic specialty of a foe.",
+		"fill | 1",
+		"text |When you use any of the spells listed in this feat's prerequisites to detect a creature's alignment or its magic, you have a chance of detecting what spellcasting expertise it has. After you observe a creature with the detect spell for 3 rounds, it must make a Will save (DC 10 + 1/2 your caster level + your Intelligence modifier). If it fails the saving throw, you learn what bloodlines, domains, hexes, schools, or mysteries (if any) the creature possesses. If the creature makes its save, it is immune to the effects of this feat for 24 hours.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Die for Your Master",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Tumor familiar alchemist discovery.",
+		"rule",
+		"fill | 1",
+		"text |Your tumor familiar goes to any length to save your life.",
+		"fill | 1",
+		"text |If your tumor familiar is attached, and you would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the familiar throws itself in the way of the attack as an immediate action. If it makes a Ref lex saving throw (DC = damage dealt), it takes all the damage from the attack; if it fails, it takes half damage and you take half damage.  The familiar must be aware of the attack and able to react to it in order to use this ability, and it can only do this once per day-if it is denied its Dexterity bonus to AC, it can't use this ability. Since this effect would not normally allow the familiar to make a Ref lex save for half damage, its improved evasion ability does not apply on this saving throw.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Divine Interference",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Divine spellcaster, caster level 10th.",
+		"rule",
+		"fill | 1",
+		"text |You can convert a spell to interfere with an enemy's attack.",
+		"fill | 1",
+		"text |As an immediate action, when an enemy within 30 feet hits an ally with an attack, you can sacrifice a prepared divine spell or (if you are a spontaneous caster) an unused spell slot and make the enemy reroll the attack roll. The second attack roll takes a penalty equal to the level of the spell you sacrifice. You must sacrifice a spell of 1st-level or higher to use this ability. Whether or not the second attack is successful, you cannot use this effect on the same creature again for 1 day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Dragonbane Aura",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Aura of courage class feature, caster level 8th.",
+		"rule",
+		"fill | 1",
+		"text |Those within your dragonbane aura gain the same protection that you do.",
+		"fill | 1",
+		"text |When fighting dragons, your aura of courage expands to a 20-foot-radius emanation, and allies in the aura gain a morale bonus on saving throws against dragon breath equal to your aura of courage's bonus against fear effects.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Echoing Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |You have learned how to release most, but not all, of a spell's potential when you cast it.",
+		"fill | 1",
+		"text |When you cast an echoing spell, it does not disappear entirely from memory, and you can cast it one additional time during that day. No effect that allows you to reprepare or recast a spell can affect the echoed spell. If you prepare spells, this second casting does not require you to prepare it in another spell slot. If you spontaneously cast spells, this second casting does not expend another available spell slot. An echoing spell uses up a spell slot three levels higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Eldritch Heritage",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, Skill Focus with the class skill of bloodline selected for this feat (see below), character level 3rd.",
+		"rule",
+		"fill | 1",
+		"text |You are descended from a long line of sorcerers, and some portion of their power flows in your veins.",
+		"fill | 1",
+		"text |Select one sorcerer bloodline. You must have Skill focus in the class skill that bloodline grants to a sorcerer at 1st level (for example, Heal for the celestial bloodline). This bloodline cannot be a bloodline you already have. You gain the first-level bloodline power for the selected bloodline. For purposes of using that power, treat your sorcerer level as equal to your character level - 2, even if you have levels in sorcerer. You do not gain any of the other bloodline abilities.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ensemble",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Perform 5 ranks",
+		"rule",
+		"fill | 1",
+		"text |You can create an ensemble of skilled and amateur performers to aid you in your performance.",
+		"fill | 1",
+		"text |When you are performing, allies within 20 feet who also have this feat can aid you with your Perform checks (including those made as part of bardic performance) as if they were aiding another as an immediate action. The allies make their aid another rolls before you make your check. No more than four allies can grant you a bonus with aid another. Allies aiding you do not need to use the same category of the Perform skill that you are using in order to aid you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Evolved Familiar",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Int 13, Cha 13, familiar class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your familiar is different from others of its kind.",
+		"fill | 1",
+		"text |Select an evolution from the list of 1-point evolutions available to a summoner's eidolon. Your familiar has this evolution. The familiar must conform to any limitations of the evolution. For instance, no familiars can benefit from the mount evolution and only familiars with wings can take the wing buffet evolution.  If you gain a new familiar, your old familiar loses all evolutions, and you can select a new 1-point evolution for the new familiar.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Exploit Lore",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Monster lore class feature, base attack bonus +11.",
+		"rule",
+		"fill | 1",
+		"text |You can use your knowledge of a creature's weaknesses to deliver a driving and relentless assault against it.",
+		"fill | 1",
+		"text |Once per day, when you successfully identify all abilities and weaknesses of a creature using the appropriate Knowledge check, you gain a +2 bonus on attack and damage rolls against that creature for 1 minute. If you identify the abilities and weaknesses of numerous creatures, you must pick one creature to be the target of this effect.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extended Bane",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Bane class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your dedication knows no limit. Your wrath dies hard.",
+		"fill | 1",
+		"text |Add your Wisdom bonus to the number of rounds per day that you can use your bane ability.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Arcana",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Magus arcana class feature.",
+		"rule",
+		"fill | 1",
+		"text |You have unlocked the secret of a new magus arcana.",
+		"fill | 1",
+		"text |You gain one additional magus arcana. You must meet all the prerequisites for this magus arcana.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Arcane Pool",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Arcane pool class feature.",
+		"rule",
+		"fill | 1",
+		"text |You have learned how to draw more power from your arcane pool.",
+		"fill | 1",
+		"text |Your arcane pool increases by 2.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Cantrips or Orisons",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Ability to cast cantrips or orisons.",
+		"rule",
+		"fill | 1",
+		"text |You are a master of minor spells.",
+		"fill | 1",
+		"text |Add two cantrips to your cantrips known or two orisons to your orisons known.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Evolution",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Eidolon class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your eidolon has more evolutions.",
+		"fill | 1",
+		"text |Your eidolon's evolution pool increases by 1.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Ranger Trap",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Trap class feature.",
+		"rule",
+		"fill | 1",
+		"text |You can use ranger traps more often.",
+		"fill | 1",
+		"text |You can set ranger traps two additional times per day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Summons",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Ability to cast summon monster as a spell-like ability, summoner 1st.",
+		"rule",
+		"fill | 1",
+		"text |You can summon monsters more often each day.",
+		"fill | 1",
+		"text |You gain 1 additional use of your summon monster spell-like ability per day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Eyes of Judgment",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Detect alignment class feature, caster level 6th.",
+		"rule",
+		"fill | 1",
+		"text |The true motives of creatures cannot escape your discerning gaze.",
+		"fill | 1",
+		"text |When using your detect alignment class feature, you may spend 3 rounds studying a creature within 60 feet.  You cannot take any other actions while doing this. After that time has passed, you learn the alignment of the creature.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Fast Empathy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Handle Animal 5 ranks, wild empathy class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your empathic attunement to nature connects you swiftly with bestial minds.",
+		"fill | 1",
+		"text |Using wild empathy is a standard action for you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Favored Judgment",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wis 13, judgment class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your judgment against a particular type of creature is particularly harsh.",
+		"fill | 1",
+		"text |Select a favored race from the ranger's favored enemies chart. Any sacred or profane bonus you gain from a judgment is 1 higher for attacks you make against or take from creatures that match the selected favored enemy.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Fearless Aura",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Aura of courage class feature, caster level 8th.",
+		"rule",
+		"fill | 1",
+		"text |Your aura of courage becomes more potent, as your steadfast resolve is also manifested by your allies.",
+		"fill | 1",
+		"text |Your aura of courage expands to a 20-foot-radius emanation. Allies within the aura are immune to fear effects.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Fire Music",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spellcraft 5 ranks, ability to cast bard spells, ability to cast an arcane fire spell from some other spellcasting class.",
+		"rule",
+		"fill | 1",
+		"text |Your ability to command fire and bardic music has created a strange blend of both magics.",
+		"fill | 1",
+		"text |When you cast a bard spell that deals damage, you may replace the spell's normal damage with fire damage or split the spell's damage so that half of it is the normal damage type and half is fire damage.  If you cast a summon monster spell as a bard spell, you may choose to give the summoned creature a fiery appearance, which gives it fire resistance 5 and adds +1 fire damage to all of its natural attacks. The creature sheds dim light in a 5-foot radius. This aspect of the feat has no effect if the creature already has the fire subtype.  When you use this feat, the affected spell gains the fire descriptor.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Flaring Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |You dazzle creatures when you affect them with a spell that has the fire, light, or electricity descriptor.",
+		"fill | 1",
+		"text |The electricity, fire, or light effects of the affected spell create a flaring that dazzles creatures that take damage from the spell. A flare spell causes a creature that takes fire or electricity damage from the affected spell to become dazzled for a number of rounds equal to the actual level of the spell. A flaring spell only affects spells with a fire, light, or electricity descriptor. A flaring spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Focused Eidolon",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Shield ally class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your bond with your eidolon helps to focus your concentration.",
+		"fill | 1",
+		"text |While you are adjacent to your eidolon, you receive a +4 bonus on concentration checks.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Gliding Steps",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dodge, Mobility, Nimble Moves, ki pool.",
+		"rule",
+		"fill | 1",
+		"text |You skate across the surface of the earth as if gliding on ice.",
+		"fill | 1",
+		"text |If you have at least one ki in your ki pool, when you move you do not provoke attacks of opportunity when leaving the first square of that movement. You can spend 1 ki point to avoid provoking attacks of opportunity during that entire move.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Grant Initiative",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cunning initiative class feature.",
+		"rule",
+		"fill | 1",
+		"text |Not only are you a master at taking the initiative, but you can also grant it to someone else.",
+		"fill | 1",
+		"text |At the start of each encounter, you can either choose to keep the bonus granted to you by your Wisdom modifier on initiative checks or choose to give that bonus to one of your allies that you can see. You must make this choice before you or the ally you are granting the bonus to makes the initiative check.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Blighted Critical",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Blighted Critical, caster level 12th.",
+		"rule",
+		"fill | 1",
+		"text |Your critical hit from a spell or spell-like ability aff licts the target with a major spellblight.",
+		"fill | 1",
+		"text |Whenever you confirm a critical hit with a touch spell, ranged touch spell, or spell-like ability against an opponent, the victim gains a random major spellblight (see page 96).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Eldritch Heritage",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 17, Eldritch Heritage, Improved Eldritch Heritage, character level 17th.",
+		"rule",
+		"fill | 1",
+		"text |Your discovered bloodline power reaches its zenith.",
+		"fill | 1",
+		"text |You gain an additional power from the bloodline you selected with the Eldritch Heritage feat. You gain a 15th-level (or lower) sorcerer bloodline power that you do not already have. For purposes of using that power, treat your character level as your sorcerer level for all your sorcerer bloodline powers granted by this feat, Eldritch Heritage, and Improved Eldritch Heritage.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Mercy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, lay on hands class feature, mercy class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your mercy has incredible recuperative properties.",
+		"fill | 1",
+		"text |When you use your lay on hands ability and the target of that ability does not have any conditions your mercies can remove, it instead heals an additional +1d6 points of damage.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Spell Specialization",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Int 13, Spell Focus, Spell Specialization, able to prepare 5th-level spells.",
+		"rule",
+		"fill | 1",
+		"text |You can sacrifice a prepared spell in order to spontaneously cast your specialized spell.",
+		"fill | 1",
+		"text |By sacrificing a prepared spell of the same or higher level than your specialized spell, you may spontaneously cast your specialized spell. The specialized spell is treated as its normal level, regardless of the spell slot used to cast it. You may add a metamagic feat to the spell by increasing the spell slot and casting time, just like a cleric spontaneously casting a cure or inf lict spell with a metamagic feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Wild Empathy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Knowledge (nature) 5 ranks, wild empathy class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your natural empathy stretches across the world of nature.",
+		"fill | 1",
+		"text |You gain a +2 insight bonus on wild empathy checks, and you may use wild empathy to duplicate an Intimidate check rather than a Diplomacy check. In addition, choose one of the following kinds of creatures: elementals, fey, lycanthropes, plants, or vermin. You may inf luence creatures of that type with wild empathy, if their  Intelligence score is 1 or 2, or they do not possess an Intelligence score. Once you choose the type of creature, it cannot be changed.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Implant Bomb",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Heal 5 ranks, delayed bomb alchemist discovery.",
+		"rule",
+		"fill | 1",
+		"text |You can attach a bomb to a creature that explodes when the creature dies or after 24 hours.",
+		"fill | 1",
+		"text |You may implant a bomb in a willing or helpless creature (a mindless creature under your control, such as a zombie, counts as willing for this purpose). This takes 1 hour and expends 1 use of your bomb ability for the day. When the implanted creature dies or is destroyed, the bomb detonates in the creature's square as if it were a delayed bomb set by you (though you can set the bomb's damage to less than your normal bomb damage). You can use any bomb-affecting discoveries on this implanted bomb (acid bomb, frost bomb, smoke bomb, and so on) as normal. The bomb automatically detonates 24 hours after you implant it in the creature.  If you expend 150 gp worth of alchemical reagents per die of the bomb's damage (for example, 750 gp for a 5d6 bomb), the bomb does not automatically detonate after 24 hours, and only detonates if the creature dies or is destroyed (24 hours after implantation, this bomb no longer counts toward your daily total).  Implanting a bomb is as invasive as using the Heal skill to treat deadly wounds and leaves surgical scars unless the creature is healed by magic or abilities such as regeneration or fast healing. Some creatures (such as oozes, elementals, and creatures with the incorporeal quality) cannot have bombs implanted in them. Removing an implanted bomb requires a Heal check to treat deadly wounds, followed by a dispel magic spell or Disable Device check to neutralize the bomb (DC = 11 + alchemist's caster level).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Eldritch Heritage",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 15, Eldritch Heritage, character level 11th.",
+		"rule",
+		"fill | 1",
+		"text |The power of your discovered bloodline continues to grow.",
+		"fill | 1",
+		"text |You gain either the 3rd-level or the 9th-level power (your choice) of the bloodline you selected with the Eldritch Heritage feat. For purposes of using that power, treat your sorcerer level as equal to your character level - 2, even if you have levels in sorcerer. You do not gain any of the other bloodline abilities.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Monster Lore",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Monster lore class feature.",
+		"rule",
+		"fill | 1",
+		"text |You are obsessed with the abilities and weaknesses of monsters.",
+		"fill | 1",
+		"text |You gain a sacred bonus on all skill checks to identify the abilities and weaknesses of creatures equal to 1/2 your level in classes that grant you the monster lore class feature.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Insightful Gaze",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Stern gaze class feature, Sense Motive 5 ranks.",
+		"rule",
+		"fill | 1",
+		"text |In your personal interactions, you notice what others don't. It's hard to get anything past you.",
+		"fill | 1",
+		"text |Whenever you make a Sense Motive check to oppose someone's Bluff check, you can roll two dice and take the higher result.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Intimidating Gaze",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13+, stern gaze class feature, Intimidate 5 ranks.",
+		"rule",
+		"fill | 1",
+		"text |There is something in your eyes that scares people.",
+		"fill | 1",
+		"text |Once per day, as a free action, when making an Intimidate skill check, you can roll two dice and take the higher result.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Judgment Surge",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Judgment class feature.",
+		"rule",
+		"fill | 1",
+		"text |Once per day, the power of your faith surges, further empowering your judgments.",
+		"fill | 1",
+		"text |Once per day, you can treat your class level for your judgment class feature as if it were 3 higher than normal. If you have multiple judgments active at the same time, this benefit applies to all of them.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ki Stand",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Ki pool.",
+		"rule",
+		"fill | 1",
+		"text |If an opponent knocks you down, you swiftly rebound with an attack.",
+		"fill | 1",
+		"text |While you have at least 1 ki point in your ki pool, you can stand up as a swift action that provokes attacks of opportunity.  You may spend 1 point of your ki pool to stand up as a swift action without provoking attacks of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Learn Ranger Trap",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Survival 5 ranks.",
+		"rule",
+		"fill | 1",
+		"text |You learn how to create one kind of ranger trap.",
+		"fill | 1",
+		"text |Select one ranger trap (see page 64). You may use this trap a number of times per day equal to your Wisdom bonus (minimum 1). The DC for your trap is equal to 10 + 1/2 your character's level + your Wisdom bonus, and it lasts 1 day per two character levels.   If you are not a ranger, you can only set extraordinary traps with this feat; like all extraordinary ranger traps, this decreases the trap DC by 2.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Life Lure",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Channel positive energy class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your channeled positive energy is irresistibly sweet to nearby undead.",
+		"fill | 1",
+		"text |As a standard action, you can channel positive energy to fascinate all undead within 30 feet for a number of rounds equal to your Charisma modifier (minimum of 1). Undead that succeed at a Will save (DC 10 + 1/2 your cleric level + your Charisma modifier) are unaffected. Channeling energy for this purpose does not heal or harm creatures.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Moonlight Summons",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell Focus (conjuration), able to cast summon nature's ally.",
+		"rule",
+		"fill | 1",
+		"text |Your summoned minions are infused with the power of the moon.",
+		"fill | 1",
+		"text |Creatures you summon shed light as a light spell. They are immune to confusion and sleep effects, and their natural weapons are treated as silver for the purposes of overcoming damage reduction.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Mystic Stride",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dex 15, Nimble Moves, woodland stride class feature.",
+		"rule",
+		"fill | 1",
+		"text |Enchanted vegetation does not bar your path.",
+		"fill | 1",
+		"text |You can move at full speed even through thorns, briars, and overgrown areas that are enchanted or magically manipulated to impede motion, even if those areas confer the entangled condition.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Opposition Research",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | You must be at least a 9th-level Wizard to select this discovery.",
+		"rule",
+		"fill | 1",
+		"text |By completing strenuous studies, you have broken through the mental barriers that made it hard for you to prepare spells from one of your opposition schools.",
+		"fill | 1",
+		"text |Select one Wizard opposition school; preparing spells of this school now only requires one spell slot of the appropriate level instead of two, and you no longer have the -4 Spellcraft penalty for crafting items from that school.   ParseClasses: Initalize Class Issue with Diviner Diviner does not have Archetype Foresight defined.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Oracular Intuition",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Mystery class feature.",
+		"rule",
+		"fill | 1",
+		"text |You are highly sensitive to magic and changes in a person's demeanor.",
+		"fill | 1",
+		"text |You get a +2 bonus on Sense Motive checks and Spellcraft checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Painful Anchor",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Anchoring aura class feature.",
+		"rule",
+		"fill | 1",
+		"text |Evil outsiders take damage when they attempt to connect to other planes.",
+		"fill | 1",
+		"text |When an evil outsider uses a calling, summoning, or teleportation effect, or any ability that physically transports a creature to or from another plane (such as blink or etherealness) within your anchoring aura, it takes damage equal to 4d8 + your Charisma modifier. This damage comes from holy power and is not subject to damage reduction, energy immunities, or energy resistances.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Piercing Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |Your studies have helped you develop methods to overcome spell resistance.",
+		"fill | 1",
+		"text |When you cast a piercing spell against a target with spell resistance, it treats the spell resistance of the target as 5 lower than its actual SR. A piercing spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Planar Preservationist",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Preservationist alchemist archetype.",
+		"rule",
+		"fill | 1",
+		"text |You know how to preserve and reconstitute extraplanar monsters as well as normal animals.",
+		"fill | 1",
+		"text |For every summon nature's ally extract you know, you learn the equivalent summon monster spell as an extract. If you later learn other summon nature's ally extracts, you automatically learn the equivalent summon monster spell as an extract.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Powerful Shape",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wild shape class feature, druid level 8th.",
+		"rule",
+		"fill | 1",
+		"text |Your wild shapes are mighty and muscular.",
+		"fill | 1",
+		"text |When in wild shape, treat your size as one category larger for the purpose of calculating CMB, CMD, carrying capacity, and any size-based special attacks you use or that are used against you (such as grab, swallow whole, and trample).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Prodigy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |You are naturally skilled at arts, professions, and the acquisition of knowledge.",
+		"fill | 1",
+		"text |Choose two Craft, Perform, or Profession skills in any combination (two Craft skills, a Craft skill and a Perform skill, and so on). You receive a +2 bonus on checks with these skills. If you have 10 or more ranks in any one of these skills, the bonus increases to +4 for that skill.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Prophetic Visionary",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Mystery class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your oracular abilities give you a glimpse into the future.",
+		"fill | 1",
+		"text |Once per day, you can enter a deep trance to receive a vision of the future. The trance lasts for  10 minutes, during which time you can take no other actions. If you are interrupted, you must begin again. When you come out of the trance, you know whether a particular action in the immediate future will bring good or bad results, as an augury spell with a 70% chance of success.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Pure Faith",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Divine health class feature.",
+		"rule",
+		"fill | 1",
+		"text |Not only are you immune to disease, like most paladins, but you also are highly resilient to poisons.",
+		"fill | 1",
+		"text |You gain a +4 sacred bonus to saving throws against poison.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Quarterstaff Master",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Weapon Focus (quarterstaff), base attack bonus +5.",
+		"rule",
+		"fill | 1",
+		"text |You can wield a quarterstaff as either a two-handed or one-handed weapon.",
+		"fill | 1",
+		"text |By employing a number of different stances and techniques, you can wield a quarterstaff as a one-handed weapon. At the start of your turn, you decide whether or not you are going to wield the quarterstaff as a one-handed or two-handed weapon. When you wield it as a one-handed weapon, your other hand is free, and you cannot use the staff as a double weapon. You can take the feat Weapon Specialization in the quarterstaff even if you have no levels in fighter.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Quick Channel",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Knowledge (religion) 5 ranks, channel energy class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your divine energies flash with dazzling speed.",
+		"fill | 1",
+		"text |You may channel energy as a move action by spending 2 daily uses of that ability.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Quick Wild Shape",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wild shape class feature, caster level 8th.",
+		"rule",
+		"fill | 1",
+		"text |You sacrifice power for speed in changing form.",
+		"fill | 1",
+		"text |You can wild shape as a move action or a swift action. However, you are limited to forms available to a druid two levels lower when changing form as a move action, or four levels lower as a swift action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Radiant Charge",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Lay on hands class feature.",
+		"rule",
+		"fill | 1",
+		"text |When you charge, you do so with the power of faith.",
+		"fill | 1",
+		"text |When you hit with a charge attack, you can expend all of your remaining uses of lay on hands to deal extra damage equal to 1d6 per use of lay on hands expended + your Charisma bonus. This damage comes from holy power and is not subject to damage reduction, energy immunities, or energy resistances.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Remote Bomb",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Delayed bomb discovery.",
+		"rule",
+		"fill | 1",
+		"text |You can set off your delayed bombs at great distances.",
+		"fill | 1",
+		"text |The maximum delay for your delayed bombs increases to a number of minutes equal to your level.  If you have line of effect to your delayed bomb, you may detonate it earlier than its preset time by making a DC 20 Intelligence check; the DC increases by +1 for every 10 feet of distance between you and the bomb.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Resilient Eidolon",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Eidolon class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your link with your eidolon is strong enough that it can remain with you for a short time after you fall unconscious or are killed.",
+		"fill | 1",
+		"text |If you are knocked unconscious, fall asleep, or are killed, your eidolon remains for a number of rounds equal to your summoner level before it is banished. If you are brought back to consciousness before this duration expires, your eidolon is not banished. If the duration expires before you are brought back to consciousness, your eidolon is banished normally.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Reward of Grace",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Lay on hands class feature.",
+		"rule",
+		"fill | 1",
+		"text |When you lay on hands, divine energy ripples through you, granting you grace.",
+		"fill | 1",
+		"text |Each time you use your lay on hands ability, you gain a +1 sacred bonus on all attack rolls for 1 round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Reward of Life",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Lay on hands class feature.",
+		"rule",
+		"fill | 1",
+		"text |When you lay on hands, you are also healed.",
+		"fill | 1",
+		"text |Each time you use your lay on hands ability to heal a creature other than yourself, you heal a number of hit points equal to your Charisma bonus. This ability has no effect if you use lay on hands to harm undead.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ricochet Splash Weapon",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dex 13, Throw Anything.",
+		"rule",
+		"fill | 1",
+		"text |Even when your thrown splash weapons miss, they are especially dangerous.",
+		"fill | 1",
+		"text |Whenever your splash weapon misses and the misdirection roll indicates it lands in a square occupied by a creature, you may make an attack roll (at a -5 penalty) as if you had thrown the splash weapon at that creature. If this attack roll succeeds, the splash weapon hits and the creature takes full damage instead of splash damage. Squares adjacent to this creature still take splash damage as normal.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Rime Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |Creatures damaged by your spells with the cold descriptor become entangled.",
+		"fill | 1",
+		"text |The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to the original level of the spell.  This feat only affects spells with the cold descriptor. A rime spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sacred Summons",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Aura class feature, ability to cast summon monster.",
+		"rule",
+		"fill | 1",
+		"text |The minions of your divine patrons stand ready to answer your call.",
+		"fill | 1",
+		"text |When using summon monster to summon creatures whose alignment subtype or subtypes exactly match your aura, you may cast the spell as a standard action instead of with a casting time of 1 round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sense Link",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Bond senses class feature.",
+		"rule",
+		"fill | 1",
+		"text |When you and your eidolon share senses, your combined minds grant you exceptional powers of observation.",
+		"fill | 1",
+		"text |When sharing the senses of your eidolon, you gain a +4 competence bonus on Perception checks for the duration of your bond senses ability.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shaping Focus",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wild shape class feature, Knowledge (nature) 5 ranks.",
+		"rule",
+		"fill | 1",
+		"text |Your powers of shapeshifting outstrip your dabbling in the druidic faith.",
+		"fill | 1",
+		"text |If you are a multiclassed druid, your wild shape ability is calculated as though your druid level were four higher, to a maximum level equal to your character level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sin Seer",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Detect undead paladin class feature.",
+		"rule",
+		"fill | 1",
+		"text |Unlike others who have taken the oath against undeath (see page 60), your preoccupation with the undead does not cloud your view of good and evil.",
+		"fill | 1",
+		"text |You gain the detect evil class feature. You may use it or the detect undead class feature, but not at the same time.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Skeleton Summoner",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell Focus (necromancy), ability to cast summon monster.",
+		"rule",
+		"fill | 1",
+		"text |The walking dead respond to your call.",
+		"fill | 1",
+		"text |Add \"human skeleton\" to the list of creatures you can summon with summon monster I and \"human skeletal champion\" to the list of creatures you can summon with summon monster III.  Once per day, when you cast summon monster, you may summon a skeletal version of one of the creatures on that spell's summoning list (apply the skeleton template to that creature to create this monster).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sorcerous Bloodstrike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, sorcerer bloodline class feature.",
+		"rule",
+		"fill | 1",
+		"text |You can regain power when you kill a creature.",
+		"fill | 1",
+		"text |Once per day, as an immediate action upon reducing a creature to 0 or fewer hit points with one of your sorcerer spells, you can regain one usage of a sorcerer bloodline power that has a limited number of uses per day. The slain creature must have at least half as many Hit Dice as your sorcerer level. You cannot use this feat to gain another usage of a bloodline power that you have not yet used today.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spell Bluff",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Bluff 5 ranks, Spellcraft 5 ranks.",
+		"rule",
+		"fill | 1",
+		"text |You know the principles of arcane dueling, and when fighting other spellcasters, you have learned to hide the true nature of your spells until the last possible moment.",
+		"fill | 1",
+		"text |If another spellcaster tries to counterspell your casting, she adds +4 to her Spellcraft DC when trying to determine your spell.  Because you have studied how to mask the recognizable elements of your spellcasting, you gain a +2 bonus on your Spellcraft checks to identify and counter an opponent's spell if it is a spell you know or have in your spellbook.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spell Hex",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Major hex class feature.",
+		"rule",
+		"fill | 1",
+		"text |You can transform a 1st-level spell into a hex.",
+		"fill | 1",
+		"text |Select one 1st-level spell in the class that grants you the major hex class feature. You can learn that spell as a hex, and can use that hex three times per day. This is a spell-like ability. You use your class level in the major-hex-granting class as your caster level for the spell hex. The spell hex uses your hex DC instead of its original spell DC.  If the spell is a touch spell and you miss the creature, you cannot target the creature with that spell hex again for 24 hours. If the spell allows a saving throw to negate or take a partial effect from the spell, and the target succeeds at that saving throw, it cannot be affected by the spell hex for 24 hours, even if it is in the area of the spell hex.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spell Specialization",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Int 13, Spell Focus.",
+		"rule",
+		"fill | 1",
+		"text |Select one spell. You cast that spell with greater than normal power.",
+		"fill | 1",
+		"text |Select one spell of a school for which you have taken the Spell Focus feat. Treat your caster level as being two higher for all level-variable effects of the spell.  Every time you gain an even level in the spellcasting class you chose your spell from, you can choose a new spell to replace the spell selected with this feat, and that spell becomes your specialized spell.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spellsong",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, bardic performance class ability, able to cast 1st-level spells.",
+		"rule",
+		"fill | 1",
+		"text |You can blend the power of your performance and spellcasting.",
+		"fill | 1",
+		"text |You can combine your bardic performance and your spellcasting in two ways.  First, you can conceal the activity of casting a bard spell by masking it in a performance. As a swift action, you may combine your casting time of a spell with a Perform check. Observers must make a Perception or Sense Motive check opposed by your Perform check to realize you are also casting a spell. This uses 1 round of your bardic performance ability, regardless of the spell's casting time.  Second, as a move action, you can use 1 round of bardic performance to maintain a bard spell with a duration of concentration. You can cast another spell in the same round you are using bardic magic to maintain concentration; if you do this, your concentration on the maintained spell ends when you end the bardic performance the spell is part of.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Split Hex",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Witch level 10th.",
+		"rule",
+		"fill | 1",
+		"text |You can split the effect of one of your targeted hexes, affecting another creature you can see.",
+		"fill | 1",
+		"text |When you use one of your hexes (not a major hex or a grand hex) that targets a single creature, you can choose another creature within 30 feet of the first target to also be targeted by the hex.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Split Major Hex",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Split hex, caster level 18th.",
+		"rule",
+		"fill | 1",
+		"text |You can split the effect of one of your targeted hexes, affecting another creature you can see.",
+		"fill | 1",
+		"text |When you use one of your major hexes (not a grand hex) that targets a creature, you can choose another  creature within 30 feet of the first target to also be targeted by the major hex.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spontaneous Metafocus",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, one metamagic feat, able to spontaneously cast spells.",
+		"rule",
+		"fill | 1",
+		"text |You can focus to combine one of your known spells and metamagic feats.",
+		"fill | 1",
+		"text |Pick a single spell that you are able to cast spontaneously. When you apply metamagic feats to that spell, you can cast the spell using the normal casting time instead of at the slower casting time.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Starlight Summons",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell Focus (conjuration), able to cast summon nature's ally.",
+		"rule",
+		"fill | 1",
+		"text |Your summoned minions slink along under the shadows of the stars.",
+		"fill | 1",
+		"text |Creatures you summon gain the Blind-Fight feat, a +5 bonus to Perception and Stealth checks in dim light or darkness, and their natural weapons are treated as cold iron for overcoming damage reduction.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sunlight Summons",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell Focus (conjuration), able to cast summon nature's ally.",
+		"rule",
+		"fill | 1",
+		"text |Your summoned minions shine with the power of the sun.",
+		"fill | 1",
+		"text |Creatures that you summon shed light as a light spell. They are immune to blinding or dazzling effects, and their natural weapons are treated as magical for overcoming damage reduction.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Superior Summoning",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Augment Summoning, caster level 3rd.",
+		"rule",
+		"fill | 1",
+		"text |You can summon more creatures.",
+		"fill | 1",
+		"text |Each time you cast a summoning spell that conjures more than one creature, add one to the total number of creatures summoned.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Thanatopic Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | Knowledge (religion) 6 ranks, Spell Focus (necromancy).",
+		"rule",
+		"fill | 1",
+		"text |Your spells can pierce wards against negative energy and even affect undead targets.",
+		"fill | 1",
+		"text |A thanatopic spell pierces defenses and immunities that protect against death effects, negative levels, and energy drain, affecting the target as if the protective barrier did not exist.  For example, you could cast a thanatopic vampiric touch or enervation spell on a target under the effects of death  ward, and the target would suffer the normal effect of the spell. Saving throws and SR (if any) still apply.  Undead are susceptible to spells augmented by this feat, as it retunes the negative energy to be harmful to them. A thanatopic spell that would kill a living creature (such as by giving it negative levels equal to its Hit Dice) destroys an undead (though undead such as ghosts, liches, and vampires may reform as normal). Undead affected by thanatopic spells that give negative levels automatically make their saving throws to remove negative levels after 24 hours.  A thanatopic spell uses up a spell slot two levels higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Theurgy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wis 13, Int or Cha 13, able to cast 1st-level arcane spells, able to cast 1st-level divine spells.",
+		"rule",
+		"fill | 1",
+		"text |You can blend the power of arcane and divine magic.",
+		"fill | 1",
+		"text |You can augment the power of your divine spells with arcane energy and augment your arcane spells with divine energy.  When casting a divine spell, you may sacrifice an arcane spell slot or arcane prepared spell of that spell's level or higher as a swift action. The caster level for that divine spell increases by +1.  When casting an arcane spell, you may sacrifice a divine spell slot or prepared divine spell of the same or higher level as a swift action. Half the damage dealt by the arcane spell becomes holy (if you channel positive energy) or unholy (if you channel negative energy).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Thoughtful Discernment",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Discern lies class feature.",
+		"rule",
+		"fill | 1",
+		"text |Thinking back, you discover a lie in what you once thought to be words of truth.",
+		"fill | 1",
+		"text |Once per day as a free action, you can think back about a single statement you heard in the last day and determine if it was a lie. This acts like the discern lies spell, but instead of affecting a creature, it affects a single statement a creature has made.  For example, if the king told you, \"My daughter is in the monster's dungeon\" before you left to find her, as long as the king said that to you within the past day, you can use this feat to determine whether or not the king deliberately and knowingly lied to you when he made that statement.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Threnodic Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | Knowledge (religion) 6 ranks, Spell Focus (necromancy).",
+		"rule",
+		"fill | 1",
+		"text |You can convert mind-affecting magic to necromantic power capable of controlling undead.",
+		"fill | 1",
+		"text |This feat only works on mind-affecting spells. A threnodic spell affects undead creatures (even mindless undead) as if they weren't immune to mind-affecting effects, but has no effect on living creatures. A threnodic spell uses up a spell slot two level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Toppling Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text |Your spells with the force descriptor knock the affected creatures prone.",
+		"fill | 1",
+		"text |The impact of your force spell is strong enough to knock the target prone. If the target takes damage, fails its saving throw, or is moved by your force spell, make a trip check against the target, using your caster level plus your casting ability score bonus (Wisdom for clerics, Intelligence for wizards, and so on). This does not provoke an attack of opportunity. If the check fails, the target cannot attempt to trip you or the force effect in response.  A toppling spell only affects spells with the force descriptor. A toppling spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Tripping Staff",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Trip, Weapon Focus (quarterstaff), base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text |You can make a trip attack with your quarterstaff.",
+		"fill | 1",
+		"text |You treat quarterstaves as if they had the trip special feature.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Tripping Twirl",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Trip, Tripping Staff, Weapon Focus (quarterstaff), Weapon Specialization (quarterstaff), base attack bonus +12.",
+		"rule",
+		"fill | 1",
+		"text |You can make a trip attack with a quarterstaff on all adjacent enemies.",
+		"fill | 1",
+		"text |As a full-round action, while wielding a quarterstaff two-handed, you can attempt a trip combat maneuver against each enemy adjacent to you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "True Name",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | You must be at least an 11th-level Wizard to select this discovery.",
+		"rule",
+		"fill | 1",
+		"text |Your researches into ancient tomes and your inquisitions of bound spirits have led you to one of the best-hidden secrets of the multiverse: the true name of an outsider",
+		"fill | 1",
+		"text |Your researches into ancient tomes and your inquisitions of bound spirits have led you to one of the best-hidden secrets of the multiverse: the true name of an outsider-the name that defines the very essence of the creature and that gives the speaker control over the being. This outsider can have no more than 12 Hit Dice. Once per day, you can speak the common name by which the outsider is known, and the outsider travels to you as if you had cast planar binding upon it. It must obey you to the best of its ability, without pay or bargaining for its services, for its fear that you might release its true name to the wider world is enough to bring even the most recalcitrant of outsiders to bear.  If the creature is within 100 feet, as a move action, you may punish it by deliberately mispronouncing its name, wracking its very essence and giving it the sickened and staggered conditions for 1 round (even if the creature is normally immune to these conditions). You cannot use true name in an area of silence, but the creature does not have to be able to hear you for it to be harmed by the ability.  It is in your best interest to call this creature only sparingly, and occasionally reward it in some fashion to mollify its wrath. If you repeatedly fail to offer it a reward appropriate to its type and ethos, the creature may begin plotting ways to destroy the bond between you, whether by creating an accident that will destroy your memory of the name, by plaguing you with nuisances or dangers until you vow never to call on it again, or by actively seeking to destroy you through its own devices or those of an underling. If this creature is of a lawful type and you are violating its ethos, its superiors may even destroy it or you rather than allow you to contaminate their servant further. Worse, they may establish situations where it is necessary for you to summon this outsider, opening gateways to infernal or angelic interference, in order to gain a foothold on the Material Plane.  This is a spell-like ability.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ultimate Mercy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 19, Greater Mercy, lay on hands, mercy class feature.",
+		"rule",
+		"fill | 1",
+		"text |By using lay on hands, you can bring the dead back to life.",
+		"fill | 1",
+		"text |You can expend 10 uses of lay on hands to bring a single dead creature you touch back to life as a raise dead spell with a caster level equal to your paladin level. You must provide the material component for raise dead or choose to accept 1 temporary negative level; this level automatically goes away after 24 hours, never becomes a permanent negative level, and cannot be overcome in any way except by waiting for the duration to expire.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ultimate Resolve",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Aura of resolve class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your aura of resolve does not fall with you.",
+		"fill | 1",
+		"text |Your aura of resolve is a 20-foot emanation, and does not end if you fall unconscious.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Uncanny Alertness",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Alertness.",
+		"rule",
+		"fill | 1",
+		"text |Your research into arcana and the nature of reality has given you heightened senses.",
+		"fill | 1",
+		"text |This feat gives you an additional +1 bonus on Perception and Sense Motive checks, and you gain a +2 bonus on saving throws against sleep and charm effects.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Uncanny Concentration",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Combat Casting.",
+		"rule",
+		"fill | 1",
+		"text |You have learned to enter a deeper state when casting spells, allowing you to shrug off distractions, damage, weather effects, and even the effects of other spells.",
+		"fill | 1",
+		"text |You do not need to make concentration checks when affected by vigorous or violent motion or by violent weather. You gain a +2 bonus on all other concentration checks.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Undead Master",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell focus (necromancy), the ability to cast animate dead or command undead.",
+		"rule",
+		"fill | 1",
+		"text |You can marshal vast armies of the undead to serve you.",
+		"fill | 1",
+		"text |When you cast animate dead or use the Command Undead feat, you are considered to be four levels higher when determining the number of Hit Dice you animate. When you cast command undead, your duration is doubled.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Unsanctioned Detection",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Detect evil class feature.",
+		"rule",
+		"fill | 1",
+		"text |You can focus your ability to detect evil for more practical or mundane purposes",
+		"fill | 1",
+		"text |As a swift action, you can focus the clarity granted by your detect evil ability to heighten your awareness of other things. This gives you a +10 sacred bonus on Perception and Sense Motive checks for one  round. This expends your use of the detect evil class ability for the next 24 hours.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Unsanctioned Knowledge",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Int 13, ability to cast 1st-level paladin spells.",
+		"rule",
+		"fill | 1",
+		"text |You have searched though forbidden texts and are privy to powerful but proscribed magic.",
+		"fill | 1",
+		"text |Pick one 1st-level spell, one 2nd-level spell, one 3rd-level spell, and one 4th-level spell from the bard, cleric, inquisitor, or oracle spell lists. Add these spells to your paladin spell list as paladin spells of the appropriate level. Once chosen, these spells cannot be changed.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Versatile Channeler",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Channel energy class feature, necromancer or neutrally aligned cleric (see below).",
+		"rule",
+		"fill | 1",
+		"text |You can choose to channel positive and negative energy.",
+		"fill | 1",
+		"text |You may make a choice whenever you use your channel energy class feature.  If you normally channel positive energy, you may choose to channel negative energy as if your effective cleric level were 2 levels lower than normal.  If you normally channel negative energy, you may choose to channel positive energy as if your effective cleric level were 2 levels lower than normal.  Having this feat means you qualify for feats and abilities that have \"channel positive energy\" or \"channel negative energy\" as a prerequisite (for example, you qualify for the Command Undead feat and the Turn Undead feat).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Vigilant Eidolon",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Eidolon class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your eidolon is highly observant, and its link with you increases your own watchfulness.",
+		"fill | 1",
+		"text |While your eidolon is within your reach, you gain a +4 bonus on Perception checks. If you have 10 or more ranks in Perception, this bonus increases to +8. This does not apply if your eidolon is helpless or unconscious.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Voice of the Sibyl",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 15.",
+		"rule",
+		"fill | 1",
+		"text |Your voice is strangely compelling.",
+		"fill | 1",
+		"text |You get a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +3 for  that skill. You do not get these bonuses if you do not use your voice when using the skill (such as using Bluff to feint in combat).",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Warrior Priest",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Ability to cast divine spells, domain or mystery class feature.",
+		"rule",
+		"fill | 1",
+		"text |Your religion is both a shield and a weapon in battle.",
+		"fill | 1",
+		"text |You gain a +1 bonus on initiative checks and a +2 bonus on concentration checks made to cast a spell or use a spell-like ability when casting defensively or while grappled.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Wild Speech",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Druid level 6th, wild shape class feature.",
+		"rule",
+		"fill | 1",
+		"text |You speak with the tongue of men and beasts.",
+		"fill | 1",
+		"text |When using wild shape to take the form in which you cannot speak (such as an animal), you are able to speak normally in any language you know. This allows you to cast spells with verbal components, speak command words, and activate spell completion and spell trigger items. However, it does not give you the ability to cast spells requiring somatic components unless you also have the Natural Spell feat, or cast spells with material components merged into your form.  When using wild shape to take the form of an animal, you may use speak with animals to communicate with animals of your assumed form. This is a spell-like ability with a caster level equal to your druid level, and you may use it for a number of minutes per day equal to your druid level. These minutes do not have to be consecutive, but must be used in one-minute increments.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Witch Knife",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Witch class.",
+		"rule",
+		"fill | 1",
+		"text |You empower your witch spells by incorporating the use of a special ceremonial knife during your castings.",
+		"fill | 1",
+		"text |Each day, when you prepare your spells, you can select a masterwork or magical dagger, transforming it into a witch knife, which serves as an additional focus component for witch patron spells. Add +1 to the DC of all your patron spells.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Word of Healing",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Lay on hands class feature.",
+		"rule",
+		"fill | 1",
+		"text |Using the same divine energy as your lay on hands ability, you can heal others at a distance.",
+		"fill | 1",
+		"text |You may use your lay on hands to heal another creature at a range of 30 feet as a standard action that does not provoke an attack of opportunity. You must be able to speak and have a free hand to use this ability. The target heals half the amount they would have healed if you had touched them, but gains the benef its of your mercies as normal.",
+		"fill | 1"
+	],
+	"tags": [
+		"Ultimate Magic"
+	]
+}]

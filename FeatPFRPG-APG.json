@@ -1,0 +1,3301 @@
+[{
+	"count": 1,
+	"color": "Maroon",
+	"title": "Additional Traits",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You have more traits than normal.",
+		"fill | 1",
+		"text | You gain two character traits of your choice (see Chapter 8). These traits must be chosen from different lists, and cannot be chosen from lists from which you have already selected a character trait. You must meet any additional qualifications for the character traits you choose.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Allied Spellcaster",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Caster level 1st.",
+		"rule",
+		"fill | 1",
+		"text | With the aid of an ally, you are skilled at piercing the protections of other creatures with your spells.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on level checks made to overcome spell resistance. If your ally has the same spell prepared (or known with a slot available if they are spontaneous spellcasters), this bonus increases to +4 and you receive a +1 bonus to the caster level for all leveldependent variables, such as duration, range, and effect.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Arcane Blast",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Arcane spellcaster, caster level 10th.",
+		"rule",
+		"fill | 1",
+		"text | You can convert any spell into an attack.",
+		"fill | 1",
+		"text | As a standard action, you can sacrifice a prepared spell or unused spell slot of 1st level or higher and transform it into a ray, targeting any foe within 30 feet as a ranged touch attack. This attack deals 2d6 points of damage plus an additional 1d6 points of damage for every level of the spell or spell slot you sacrificed. 0-level spells may not be sacrificed in this manner.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Arcane Shield",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Arcane spellcaster, caster level 10th.",
+		"rule",
+		"fill | 1",
+		"text | You can convert any spell into a defense.",
+		"fill | 1",
+		"text | As a immediate action, you can sacrifice a prepared spell or unused spell slot of 1st level or higher and gain a def lection bonus to AC equal to the level of the spell or spell slot you sacrificed for 1 round. 0-level spells may not be sacrificed in this manner.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Arcane Talent",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 10; elf, half-elf, or gnome.",
+		"rule",
+		"fill | 1",
+		"text | Magic is in your blood, and at your fingertips.",
+		"fill | 1",
+		"text | Choose a 0-level spell from the sorcerer/wizard spell list. You can cast this spell three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is 10 + your Charisma modifier.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Aspect of the Beast",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | wild shape class feature, see Special.",
+		"rule",
+		"fill | 1",
+		"text | Whether by magic or a curse of your blood, some part of you is more beast than man.",
+		"fill | 1",
+		"text | Your bestial nature manifests itself in one of the following ways. You choose the manifestation when you choose the feat, and then you cannot change it. Night Senses (Ex): If your base race has normal vision, you gain low-light vision. If your base race has low-light vision, you gain darkvision out to a range of 30 feet. If your base race has darkvision, the range of your darkvision increases by 30 feet. Claws of the Beast (Ex): You grow a pair of claws. These claws are primary attacks that deal 1d4 points of damage (1d3 if you are Small). Predator's Leap (Ex): You can make a running jump without needing to run 10 feet before you jump. Wild Instinct (Ex): You gain a +2 bonus on initiative checks and a +2 bonus on Survival skill checks.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Bashing Finish",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Improved Shield Bash, Shield Master, Two-Weapon Fighting, base attack bonus +11.",
+		"rule",
+		"fill | 1",
+		"text | You follow a powerful blow from your weapon with an opportunistic bash from your shield.",
+		"fill | 1",
+		"text | Whenever you score a critical hit with a melee weapon, you can make a shield bash attack against the same target using the same bonus as a free action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Blood Of Heroes",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Hero's Fortune.",
+		"rule",
+		"fill | 1",
+		"text | You have a sense of destiny about you and always seem to succeed, even when the odds are against you.",
+		"fill | 1",
+		"text | Whenever you gain a level, you gain 2 hero points instead of 1.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Bloody Assault",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Power Attack, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | Sacrificing accuracy, you can inflict bloody wounds that are slow to heal.",
+		"fill | 1",
+		"text | You can choose to take a -5 penalty on all melee attack rolls and combat maneuver checks to inflict 1d4 points of bleed damage with your weapon melee attacks, in addition to the normal damage dealt by the weapon. A creature continues to take bleed damage every round at the start of its turn. Bleed damage can be stopped by a DC 15 Heal check or through any magical healing. Bleed damage from this feat does not stack with itself. You must choose to use this feat before making the attack roll, and its effects last until your next turn (although the bleeding lasts until healed, as normal).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Bodyguard",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Combat Reflexes.",
+		"rule",
+		"fill | 1",
+		"text | Your swift strikes ward off enemies attacking nearby allies.",
+		"fill | 1",
+		"text | When an adjacent ally is attacked, you may use an attack of opportunity to attempt the aid another action to improve your ally's AC. You may not use the aid another action to improve your ally's attack roll with this attack.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Bouncing Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You can direct a failed spell against a different target.",
+		"fill | 1",
+		"text | Whenever a bouncing spell targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected spell behaves in all ways as if its new target were the original target for the spell. Spells that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner. A bouncing spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Breadth of Experience",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dwarf, elf, or gnome; 100+ years old.",
+		"rule",
+		"fill | 1",
+		"text | Although still young for your kind, you have a lifetime of knowledge and training.",
+		"fill | 1",
+		"text | You get a +2 bonus on all Knowledge and Profession skill checks, and can make checks with those skills untrained.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Bull Rush Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Improved Bull Rush, Power Attack, base attack bonus +9.",
+		"rule",
+		"fill | 1",
+		"text | Your critical hits can push back your foes.",
+		"fill | 1",
+		"text | Whenever you score a critical hit with a melee attack, you can push your opponent back, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent's CMD, you may push your opponent back as if from the bull rush combat maneuver. You do not need to move with the target if successful. This does not provoke an attack of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Charge Through",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Improved Overrun, Power Attack, base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | You can overrun enemies when charging.",
+		"fill | 1",
+		"text | When making a charge, you can attempt to overrun one creature in the path of the charge as a free action. If you successfully overrun that creature, you can complete the charge. If the overrun is unsuccessful, the charge ends in the space directly in front of that creature.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Childlike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, halfling.",
+		"rule",
+		"fill | 1",
+		"text | Your resemblance to a human child tends to make others trust you, perhaps more than they should.",
+		"fill | 1",
+		"text | You can take 10 on Bluff checks to convince others you are telling the truth, so long as your story makes you appear innocent. You gain a +2 bonus on Disguise skill checks to pose as a human child, and ignore the check penalties for disguising yourself as a different race and age category while doing so.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Cloud Step",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spider Step, monk level 12th.",
+		"rule",
+		"fill | 1",
+		"text | Your tread is of unearthly lightness.",
+		"fill | 1",
+		"text | As a move action, you can air walk (as the spell) up to half your slow fall distance, maximum 50 feet. You must reach a solid, level surface by the end of your turn or you will fall.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Cockatrice Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Improved Unarmed Strike, Gorgon's Fist, Medusa's Wrath, base attack bonus +14.",
+		"rule",
+		"fill | 1",
+		"text | With a single strike, you transmute flesh to stone.",
+		"fill | 1",
+		"text | As a full-round action, you can make a single unarmed strike against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe. If that attack is a critical hit, the target is petrified unless it succeeds on a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier. This is a supernatural polymorph effect.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Combat Patrol",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Combat Reflexes, Mobility, base attack bonus +5.",
+		"rule",
+		"fill | 1",
+		"text | You range across the battlefield, dealing with threats wherever they arise.",
+		"fill | 1",
+		"text | As a full-round action, you may set up a combat patrol, increasing your threatened area by 5 feet for every 5 points of your base attack bonus. Until the beginning of your next turn, you may make attacks of opportunity against any opponent in this threatened area that provokes attacks of opportunity. You may move as part of these attacks, provided your total movement before your next turn does not exceed your speed. Any movement you make provokes attacks of opportunity as normal.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Cooperative Crafting",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | 1 rank in any Craft skill, any item creation feat.",
+		"rule",
+		"fill | 1",
+		"text | Your assistance makes item crafting far more efficient.",
+		"fill | 1",
+		"text | You can assist another character in crafting mundane and magical items. You must both possess the relevant Craft skill or item creation feat, but either one of you can fulfill any other prerequisites for crafting the item. You provide a +2 circumstance bonus on any Craft or Spellcraft checks related to making an item, and your assistance doubles the gp value of items that can be crafted each day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Coordinated Defense",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You are adept at working with allies to avoid being tripped, grappled, and subjected to other maneuvers.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus to your Combat Maneuver Defense. This bonus increases to +4 if the creature attempting the maneuver is larger than both you and your ally.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Coordinated Maneuvers",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at working with your allies to perform dangerous combat maneuvers.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on all combat maneuver checks. This bonus increases to +4 when attempting to break free from a grapple.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Cosmopolitan",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Living in large, exotic cities has put you in touch with many diverse civilizations, cultures, and races.",
+		"fill | 1",
+		"text | You can speak and read two additional languages of your choice. In addition, choose two Intelligence-, Wisdom-, or Charisma-based skills. Those skills always count as class skills for you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Covering Defense",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Shield Focus, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at protecting yourself and your allies with your shield.",
+		"fill | 1",
+		"text | When you use the total defense action while using a light, heavy, or tower shield, you can provide a cover bonus to AC against all attacks to an adjacent ally your size or smaller. This cover bonus is equal to your shield's shield bonus and lasts until the beginning of your next turn. Your shield does not provide a cover bonus to Ref lex saves.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Crippling Critical",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Critical Focus, base attack bonus +13.",
+		"rule",
+		"fill | 1",
+		"text | You are able to maim a target and hinder its movement.",
+		"fill | 1",
+		"text | Whenever you score a critical hit against an opponent, its speed is halved for 1 minute. A successful Fortitude save reduces this duration to 1d4 rounds. The DC of this save is equal to 10 + your base attack bonus. Against creatures with multiple types of movement, you must choose which movement type to affect. A flying creature hit by this attack must make a DC 10 Fly check to remain airborne, and has its maneuverability reduced by one step.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Crossbow Mastery",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 15, Point-Blank Shot, Rapid Reload, Rapid Shot.",
+		"rule",
+		"fill | 1",
+		"text | You can load crossbows with blinding speed and even fire them in melee with little fear of reprisal.",
+		"fill | 1",
+		"text | The time required for you to reload any type of crossbow is reduced to a free action, regardless of the type of crossbow used. You can fire a crossbow as many times in a full attack action as you could attack if you were using a bow. Reloading a crossbow for the type of crossbow you chose when you took Rapid Reload no longer provokes attacks of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Dastardly Finish",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Sneak attack +5d6.",
+		"rule",
+		"fill | 1",
+		"text | You can take advantage of an enemy's debilitated state to attempt a coup de grace.",
+		"fill | 1",
+		"text | You can deliver a coup de grace to cowering or stunned targets.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Dazing Assault",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Power Attack, base attack bonus +11.",
+		"rule",
+		"fill | 1",
+		"text | You can daze foes with wild attacks.",
+		"fill | 1",
+		"text | You can choose to take a -5 penalty on all melee attack rolls and combat maneuver checks to daze opponents you hit with your melee attacks for 1 round, in addition to the normal damage dealt by the attack. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Dazing Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You can daze creatures with the power of your spells.",
+		"fill | 1",
+		"text | You can modify a spell to daze a creature damaged by the spell. When a creature takes damage from this spell, they become dazed for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell. A dazing spell uses up a spell slot three levels higher than the spell's actual level. Spells that do not inf lict damage do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Deep Drinker",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 13, monk level 11, drunken ki class feature.",
+		"rule",
+		"fill | 1",
+		"text | You draw greater amounts of ki from your libations.",
+		"fill | 1",
+		"text | When you gain temporary ki from drunken ki, you gain 2 temporary ki rather than just 1.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Deepsight",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Darkvision 60 feet.",
+		"rule",
+		"fill | 1",
+		"text | Your senses are especially keen in the utter darkness.",
+		"fill | 1",
+		"text | Your darkvision has a range of 120 feet.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Disarming Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Disarm, base attack bonus +9.",
+		"rule",
+		"fill | 1",
+		"text | Your critical hits can disarm your foes.",
+		"fill | 1",
+		"text | Whenever you score a critical hit with a melee attack, you can disarm your opponent, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent's CMD, you may disarm your opponent as if from the disarm combat maneuver. This does not provoke an attack of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Disrupting Shot",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Point-Blank Shot, fighter level 6th.",
+		"rule",
+		"fill | 1",
+		"text | With a well-placed shot, you make it harder for a nearby opponent to cast spells.",
+		"fill | 1",
+		"text | If you ready an action to shoot an opponent casting a spell within 30 feet and successfully hit that opponent with a ranged attack, the concentration DC to successfully cast the spell is increased by +4.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Disruptive Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your magical energies cling to enemies, interfering with their spellcasting.",
+		"fill | 1",
+		"text | Targets affected by a disruptive spell must make concentration checks when using spells or spell-like abilities (DC equals the save DC of the disruptive spell plus the level of the spell being cast) for 1 round. Targets that avoid the spell's effects avoid this feat's effect as well. A disruptive spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Diviner's Delving",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell Focus (divination).",
+		"rule",
+		"fill | 1",
+		"text | Your keen magical intuition makes reading signs, portents, and mystical clues quick and easy.",
+		"fill | 1",
+		"text | You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that impede divination (for example, nondetection). When using a divination spell that requires concentration, you gain information from the spell 1 round sooner than normal (so you gain information from the first 2 rounds with 1 round of concentration, and information from the third round in the second round of concentration).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Dreadful Carnage",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 15, Power Attack, Furious Focus, base attack bonus +11.",
+		"rule",
+		"fill | 1",
+		"text | Slaying an enemy demoralizes your other nearby foes.",
+		"fill | 1",
+		"text | Whenever you reduce an enemy to 0 or fewer hit points, you can make an Intimidate check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Duck and Cover",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your allies assist you in avoiding certain attacks.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, and both of you are required to make a Ref lex saving throw against a spell or effect, you may take the result of your die roll or that of your ally (your modifiers still apply to the roll, regardless of which result you take). If you take your ally's result, you are knocked prone (or staggered on your next turn, if you are already prone or cannot be knocked prone). In addition, you receive a +2 cover bonus to your AC against ranged attacks as long as your ally is wielding a shield.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Eagle Eyes",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wis 13, keen senses racial trait.",
+		"rule",
+		"fill | 1",
+		"text | Your vision is especially keen.",
+		"fill | 1",
+		"text | You ignore up to -5 in penalties due to distance on visual Perception checks, allowing you to see accurately at much greater distances than most.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Eclectic",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Human.",
+		"rule",
+		"fill | 1",
+		"text | You have a talent for picking up different vocations.",
+		"fill | 1",
+		"text | Choose an additional favored class and gain either +1 hit point or +1 skill point whenever you take a level in that class. If you choose a class in which you already have levels, the benefits of this feat are retroactive.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ectoplasmic Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your spells breach the gulf between dimensions, sending ghostly emanations into the ether.",
+		"fill | 1",
+		"text | An ectoplasmic spell has full effect against incorporeal or ethereal creatures. An ectoplasmic spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Eldritch Claws",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 15, natural weapons, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | Who needs magic weapons? Eldritch tricks are no match for your bestial ferocity.",
+		"fill | 1",
+		"text | You natural weapons are considered both magic and silver for purpose of overcoming damage reduction.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Elemental Fist",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
+		"rule",
+		"fill | 1",
+		"text | You empower your strike with elemental energy",
+		"fill | 1",
+		"text | When you use Elemental Strike pick one of the following energy types: acid, cold, electricity, or fire. On a successful hit, the attack deals damage normally plus 1d6 points of damage of the chosen type. You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). You may attempt an elemental fist attack once per day for every four levels you have attained (see Special), and no more than once per round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Elemental Focus",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your spells of a certain element are more difficult to resist.",
+		"fill | 1",
+		"text | Choose one energy type (acid, cold, electricity, or fire). Add +1 to the Difficulty Class for all saving throws against spells that deal damage of the energy type you select.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Elemental Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You can manipulate the elemental nature of your spells.",
+		"fill | 1",
+		"text | Choose one energy type: acid, cold, electricity, or fire. You may replace a spell's normal damage with that energy type or split the spell's damage, so that half is of that energy type and half is of its normal type. An elemental spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Elven Accuracy",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Elf.",
+		"rule",
+		"fill | 1",
+		"text | Your sharp eyesight makes difficult shots easier.",
+		"fill | 1",
+		"text | If you miss due to concealment when making a ranged attack with a longbow or shortbow (including composite bows), you can reroll your miss chance roll one time to see if you actually hit.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Enforcer",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Intimidate 1 rank.",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at causing fear in those you brutalize.",
+		"fill | 1",
+		"text | Whenever you deal nonlethal damage with a melee weapon, you can make an Intimidate check to demoralize your target as a free action. If you are successful, the target is shaken for a number of rounds equal to the damage dealt. If your attack was a critical hit, your target is frightened for 1 round with a successful Intimidate check, as well as being shaken for a number of rounds equal to the damage dealt.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Expanded Arcana",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Caster level 1st, see Special.",
+		"rule",
+		"fill | 1",
+		"text | Your research has revealed new spells.",
+		"fill | 1",
+		"text | Add one spell from your class's spell list to your list of spells known. This is in addition to the number of spells normally gained at each new level in your class. You may instead add two spells from your class's spell list to your list of spells known, but both of these spells must be at least one level lower than the highest level spell you can cast in that class. Once made, these choices cannot be changed.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Bombs",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Bomb class feature.",
+		"rule",
+		"fill | 1",
+		"text | You can throw more bombs per day.",
+		"fill | 1",
+		"text | You can throw two additional bombs per day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Discovery",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Discovery class feature.",
+		"rule",
+		"fill | 1",
+		"text | You have made a new alchemical discovery.",
+		"fill | 1",
+		"text | You gain one additional discovery. You must meet all of the prerequisites for this discovery.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Hex",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Hex class feature.",
+		"rule",
+		"fill | 1",
+		"text | You have learned the secrets of a new hex.",
+		"fill | 1",
+		"text | You gain one additional hex. You must meet all of the prerequisites for this hex.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Rage Power",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Rage power class feature.",
+		"rule",
+		"fill | 1",
+		"text | You have unlocked a new ability to use while raging.",
+		"fill | 1",
+		"text | You gain one additional rage power. You must meet all of the prerequisites for this rage power.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Revelation",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Revelation class feature.",
+		"rule",
+		"fill | 1",
+		"text | You have discovered a new aspect of your mystery.",
+		"fill | 1",
+		"text | You gain one additional revelation. You must meet all of the prerequisites for this revelation.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Extra Rogue Talent",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Rogue talent class feature.",
+		"rule",
+		"fill | 1",
+		"text | Through constant practice, you have learned how to perform a special trick.",
+		"fill | 1",
+		"text | You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Fast Drinker",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 18, drunken ki class feature.",
+		"rule",
+		"fill | 1",
+		"text | You swiftly guzzle spirits to draw forth ki.",
+		"fill | 1",
+		"text | Drinking strong alcohol to gain temporary ki, takes a swift action rather than a standard action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Fast Healer",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 13, Diehard, Endurance.",
+		"rule",
+		"fill | 1",
+		"text | You benefit greatly from your healing, be it from spells or natural healing.",
+		"fill | 1",
+		"text | When you regain hit points by resting or through magical healing, you recover additional hit points equal to half your Constitution modifier (minimum +1).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Favored Defense",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Favored enemy class feature.",
+		"rule",
+		"fill | 1",
+		"text | Your cunning is your shield against your quarry's attacks.",
+		"fill | 1",
+		"text | Choose one of your favored enemy types. You add half your favored enemy bonus to your CMD and as a dodge bonus to AC when attacked by a favored enemy.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Fight On",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 13; dwarf, half-orc, or orc.",
+		"rule",
+		"fill | 1",
+		"text | You can keep fighting even after you should be dead.",
+		"fill | 1",
+		"text | Once per day, you can gain a number of temporary hit points equal to your Constitution modifier. You can activate this feat as an immediate action when reduced to 0 or fewer hit points. You can use this feat to prevent yourself from dying. These temporary hit points last for 1 minute. If your hit points drop below 0 due to the loss of these temporary hit points, you fall unconscious and are dying as normal. If you also have the ferocity racial trait, you can use that once you have lost the temporary hit points from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Focused Shot",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Point Blank Shot, Precise Shot.",
+		"rule",
+		"fill | 1",
+		"text | Your anatomical insight adds deadliness to your shots.",
+		"fill | 1",
+		"text | As a standard action, you may make an attack with a bow or crossbow and add your Intelligence modifier on the damage roll. You must be within 30 feet of your target to deal this extra damage. Creatures immune to critical hits and sneak attacks are immune to this extra damage.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Focused Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | When you cast a spell that affects more than one creature, one opponent finds it more difficult to resist.",
+		"fill | 1",
+		"text | When casting a spell that affects or targets more than one creature, you can choose one target or creature within the spell effect. That creature's saving throw DC to resist the spell is increased by +2. You must choose which target to focus the spell on before casting the spell. A focused spell uses up a spell slot one level higher than the spell's actual level. Spells that do not require a saving throw to resist or lessen the spell's effect do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Following Step",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Step Up.",
+		"rule",
+		"fill | 1",
+		"text | You can repeatedly close the distance when foes try to move away, without impeding your normal movement.",
+		"fill | 1",
+		"text | When using the Step Up feat to follow an adjacent foe, you may move up to 10 feet. You may still take a 5-foot step during your next turn, and any movement you make using this feat does not subtract any distance from your movement during your next turn.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Furious Focus",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Power Attack, base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | Even in the midst of fierce and furious blows, you can find focus in the carnage and your seemingly wild blows strike home.",
+		"fill | 1",
+		"text | When you are wielding a two-handed weapon or a one-handed weapon with two hands, and using the Power Attack feat, you do not suffer Power Attack's penalty on melee attack rolls on the first attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Gang Up",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise.",
+		"rule",
+		"fill | 1",
+		"text | You are adept at using greater numbers against foes.",
+		"fill | 1",
+		"text | You are considered to be flanking an opponent if at least two of your allies are threatening that opponent, regardless of your actual positioning.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Gnome Trickster",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, gnome, gnome magic racial trait.",
+		"rule",
+		"fill | 1",
+		"text | Your arcane talents go beyond the illusory.",
+		"fill | 1",
+		"text | In addition to your normal gnome spell-like abilities, you also gain the following spell-like abilities: 1/day-mage hand and prestidigitation.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Go Unnoticed",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dex 13, Small size or smaller.",
+		"rule",
+		"fill | 1",
+		"text | Your small size lets you quickly duck out of sight.",
+		"fill | 1",
+		"text | During the first round of combat, flat-footed opponents are considered not to have noticed you yet for the purposes of Stealth skill checks, allowing you to make a Stealth check that round to hide from them.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Blind-Fight",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Perception 15 ranks, Improved Blind-Fight.",
+		"rule",
+		"fill | 1",
+		"text | Your enemies cannot hide from you.",
+		"fill | 1",
+		"text | Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal. If you successfully pinpoint an invisible or hidden attacker, that attacker gets no advantages related to hitting you with ranged attacks, regardless of the range. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Dirty Trick",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | When you pull a dirty trick, your foe is truly hindered.",
+		"fill | 1",
+		"text | You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by Improved Dirty Trick. Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD. In addition, removing the condition requires the target to spend a standard action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Drag",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Improved Drag, Power Attack, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | Foes that you drag are thrown out of balance.",
+		"fill | 1",
+		"text | You receive a +2 bonus on checks made to drag a foe. This bonus stacks with the bonus granted by Improved Drag. Whenever you drag a foe, his movement provokes attacks of opportunity from all of your allies (but not you).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Elemental Focus",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Elemental Focus.",
+		"rule",
+		"fill | 1",
+		"text | Choose an energy type to which you have already applied the Elemental Focus feat. Any spells you cast of this energy type are very hard to resist.",
+		"fill | 1",
+		"text | Add +1 to the Difficulty Class for all saving throws against spells that deal damage of the energy type you select. This bonus stacks with the bonus from Elemental Focus.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Reposition",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Reposition, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | When you reposition foes, they are left vulnerable to the attacks of your allies.",
+		"fill | 1",
+		"text | You receive a +2 bonus on checks made to reposition a foe. This bonus stacks with the bonus granted by Improved Reposition. Whenever you reposition a foe, his movement provokes attacks of opportunity from all of your allies (but not you).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Shield Specialization",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Proficiency with selected shield, Greater Shield Focus, Shield Focus, Shield Specialization with selected shield, fighter level 12th.",
+		"rule",
+		"fill | 1",
+		"text | Your masterful shieldwork provides even greater protection to your vital areas.",
+		"fill | 1",
+		"text | Choose one type of shield (buckler, light, heavy, or tower shield) for which you possess the Shield Specialization feat. With the selected shield, you gain a +2 bonus to your Armor Class against critical hit confirmation rolls (this bonus stacks with that from Shield Specialization). In addition, once per day you may negate a critical hit, and damage is instead rolled normally.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Greater Steal",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Steal, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | You have a knack for snatching items from your opponents in combat.",
+		"fill | 1",
+		"text | You receive a +2 bonus on checks made to steal an item from a foe. This bonus stacks with the bonus granted by Improved Steal. If you successfully steal an item from a foe during combat, it does not notice the theft until after combat is over or if it attempts to use the missing item.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Groundling",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, gnome, gnome magic racial trait.",
+		"rule",
+		"fill | 1",
+		"text | You can speak with burrowing animals.",
+		"fill | 1",
+		"text | You can use speak with animals as a spell-like ability at will, but only to communicate with burrowing animals like gophers, moles, and the like. You can still use your gnome speak with animals ability once per day to speak with any animal, as usual.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Hero's Fortune",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Even at the start of your career, it was clear that you had a chance at greatness, and your legend continues to grow with every adventure.",
+		"fill | 1",
+		"text | You gain a hero point. The maximum number of hero points you can have at any one time is increased to 5.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Heroic Defiance",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Diehard, Endurance, base Fortitude save +8.",
+		"rule",
+		"fill | 1",
+		"text | You struggle on when others would fall.",
+		"fill | 1",
+		"text | Once per day as an immediate action you can delay the onset of one harmful condition or aff liction (such as panicked, paralyzed, stunned, and so on), including permanent and instantaneous conditions. Activating this feat delays the onset of the condition until the end of your next turn, after which time the condition takes its normal effect. This feat has no effect on hit point damage or ability damage.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Heroic Recovery",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Diehard, Endurance, base Fortitude save +4.",
+		"rule",
+		"fill | 1",
+		"text | You can throw off the effects of crippling conditions.",
+		"fill | 1",
+		"text | Once per day as a standard action you may attempt a new saving throw against a harmful condition or aff liction requiring a Fortitude save that is affecting you. If this save against the aff liction fails, there is no additional effect, but a successful save counts toward curing an aff liction such as poison or disease. You cannot use this feat to recover from instantaneous effects, effects that do not allow a saving throw, or effects that do not require a Fortitude save.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Blind-Fight",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Perception 10 ranks, Blind-Fight.",
+		"rule",
+		"fill | 1",
+		"text | Your keen senses guide your hand against hidden foes.",
+		"fill | 1",
+		"text | Your melee attacks ignore the miss chance for less than total concealment. You may still reroll your miss chance percentile roll for total concealment. If you successfully pinpoint an invisible or hidden attacker within 30 feet, that attacker gets no advantages related to hitting you with ranged attacks. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Dirty Trick",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise.",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at pulling dirty tricks on your foes.",
+		"fill | 1",
+		"text | You do not provoke an attack of opportunity when performing a dirty trick combat maneuver. In addition, you receive a +2 bonus on checks made to attempt a dirty trick. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries a dirty trick on you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Drag",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Power Attack, base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at dragging foes around the battlefield.",
+		"fill | 1",
+		"text | You do not provoke an attack of opportunity when performing a drag combat maneuver. In addition, you receive a +2 bonus on checks made to drag a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to drag you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Ki Throw",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Improved Bull Rush, Ki Throw.",
+		"rule",
+		"fill | 1",
+		"text | Your enemies are living weapons in your hands.",
+		"fill | 1",
+		"text | When using the Ki Throw feat, you may throw your target into any square you threaten that is occupied by another creature. Make a bull rush combat maneuver check with a -4 penalty against the secondary target. If this check succeeds, the thrown creature lands prone in the secondary target's square, while the secondary target is pushed back and knocked prone in an adjacent square. If the check fails, the thrown creature lands prone in the nearest square you threaten adjacent to the secondary target. If you throw a Large or larger creature into an area containing multiple secondary targets, you take an additional penalty of -4 on your combat maneuver check for each target after the first.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Reposition",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise.",
+		"rule",
+		"fill | 1",
+		"text | You have learned how to force your enemies to move around the battlefield.",
+		"fill | 1",
+		"text | You do not provoke an attack of opportunity when performing a reposition combat maneuver. In addition, you receive a +2 bonus on checks made to reposition a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to reposition you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Second Chance",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Second Chance, base attack bonus +11.",
+		"rule",
+		"fill | 1",
+		"text | You can turn a missed strike into a second chance without sacrificing later attacks.",
+		"fill | 1",
+		"text | When you reroll a missed attack using the Second Chance feat, you can still make the rest of your attacks that turn, albeit at a -5 penalty to each attack.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Share Spells",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spellcraft 10 ranks, ability to acquire an animal companion, eidolon, familiar, or special mount.",
+		"rule",
+		"fill | 1",
+		"text | You can share spells with those you have a magical connection with.",
+		"fill | 1",
+		"text | Any non-instantaneous spell (but not any spell-like ability) you cast on yourself can also affect a creature bonded to you (such as an animal companion, eidolon, familiar, or special mount). The creature must be within 5 feet of you at the time of casting to receive the benefit. The spell's duration is halved between you and your bonded creature (for example, a spell with a duration of 1 hour has a duration of 30 minutes for both you and your bonded creature). If the spell or effect has a duration other than instantaneous, it stops affecting the creature if it moves farther than 5 feet away from you. It does not affect the creature again if it returns before the duration expires. You may share spells in this fashion even if the spells normally do not affect creatures of that type. This feat only applies to animal companions, eidolons, familiars, or special mounts gained through a class feature.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Sidestep",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 15, Dodge, Mobility, Sidestep.",
+		"rule",
+		"fill | 1",
+		"text | You are adept at sidestepping your opponent's melee attacks without compromising your mobility.",
+		"fill | 1",
+		"text | After sidestepping an opponent's missed attack using the Sidestep feat, you may still take a 5-foot step during your next turn, or you may move up to your full speed if you take an action to move during your next turn.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Steal",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise.",
+		"rule",
+		"fill | 1",
+		"text | You have a knack for snatching items from your opponents.",
+		"fill | 1",
+		"text | You do not provoke an attack of opportunity when performing a steal combat maneuver. In addition, you receive a +2 bonus on checks made to steal an item from a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to steal an item from you.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Improved Stonecunning",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wis 13, dwarf, stonecunning racial trait.",
+		"rule",
+		"fill | 1",
+		"text | Your sense for stonework is uncanny.",
+		"fill | 1",
+		"text | You receive a +4 bonus on Perception checks to notice unusual stonework. This bonus replaces the stonecunning ability's normal bonus on Perception checks.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "In Harm's Way",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Bodyguard.",
+		"rule",
+		"fill | 1",
+		"text | You put yourself in danger's path to save your allies.",
+		"fill | 1",
+		"text | While using the aid another action to improve an adjacent ally's AC, you can intercept a successful attack against that ally as an immediate action, taking full damage from that attack and any associated effects (bleed, poison, etc.). A creature cannot benefit from this feat more than once per attack.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Intensified Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your spells can go beyond several normal limitations.",
+		"fill | 1",
+		"text | An intensified spell increases the maximum number of damage dice by 5 levels. You must actually have sufficient caster levels to surpass the maximum in order to benefit from this feat. No other variables of the spell are affected, and spells that inf lict damage that is not modified by caster level are not affected by this feat. An intensified spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ironguts",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 13; dwarf, half-orc, or orc.",
+		"rule",
+		"fill | 1",
+		"text | You have an especially strong stomach.",
+		"fill | 1",
+		"text | You gain a +2 racial bonus on saving throws against any effect causing the nauseated or sickened conditions and against all ingested poisons (but not other poisons). In addition, you receive a +2 bonus on Survival skill checks to find food for yourself (and only yourself ).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ironhide",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 13; dwarf, half-orc, or orc.",
+		"rule",
+		"fill | 1",
+		"text | Your skin is thicker and more resilient than that of most of your people.",
+		"fill | 1",
+		"text | You gain a +1 natural armor bonus due to your unusually tough hide.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Keen Scent",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wis 13, half-orc or orc.",
+		"rule",
+		"fill | 1",
+		"text | Your nose is as sensitive as that of a wild predator.",
+		"fill | 1",
+		"text | You gain the scent special ability.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ki Throw",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Improved Trip, Improved Unarmed Strike.",
+		"rule",
+		"fill | 1",
+		"text | Your physical control and mastery of momentum allows you to throw enemies.",
+		"fill | 1",
+		"text | On a successful unarmed trip attack against a target your size or smaller, you may throw the target prone in any square you threaten rather than its own square. This movement does not provoke attacks of opportunity, and you cannot throw the creature into a space occupied by other creatures.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Leaf Singer",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, bardic performance class feature, elf or half-elf.",
+		"rule",
+		"fill | 1",
+		"text | Your songs recount the ways and mysteries of your people.",
+		"fill | 1",
+		"text | When you use bardic performance with audible components in a forest, the range or area of your chosen performance is doubled. In addition, the DC for saving throws against your bardic performance is increased by +2 for creatures of the fey type, regardless of where the performance occurs.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Light Step",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Acrobatic Steps, Nimble Moves, elf.",
+		"rule",
+		"fill | 1",
+		"text | You pick your way nimbly through even the most dangerous and uneven terrain.",
+		"fill | 1",
+		"text | You can ignore the effects of difficult terrain in natural environments, as if it were normal terrain.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Lingering Performance",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Bardic performance class feature.",
+		"rule",
+		"fill | 1",
+		"text | The effects of your bardic performance carry on, even after you have stopped performing.",
+		"fill | 1",
+		"text | The bonuses and penalties from your bardic performance continue for 2 rounds after you cease performing. Any other requirement, such as range or specific conditions, must still be met for the effect to continue. If you begin a new bardic performance during this time, the effects of the previous performance immediately cease.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Lingering Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You spell clings to existence, slowly fading from the world.",
+		"fill | 1",
+		"text | You may cause an instantaneous spell that affects an area to persist until the beginning of your next turn. Those already in the area suffer no additional harm, but other creatures or objects entering the area are subject to its effects. A lingering spell with a visual manifestation obscures vision, providing concealment (20% miss chance) beyond 5 feet and total concealment (50% miss chance) beyond 20 feet. A lingering spell uses up a spell slot one level higher than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Lookout",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your allies help you avoid being surprised.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you may act in the surprise round as long as your ally would normally be able to act in the surprise round. If you would normally be denied the ability to act in the surprise round, your initiative is equal to your initiative roll or the roll of your ally -1, whichever is lower. If both you and your ally would be able to act in the surprise round without the aid of this feat, you may take both a standard and a move action (or a full-round action) during the surprise round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Low Profile",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Small size or smaller.",
+		"rule",
+		"fill | 1",
+		"text | Yours small stature helps you avoid ranged attacks.",
+		"fill | 1",
+		"text | You gain a +1 dodge bonus to AC against ranged attacks. In addition, you do not provide soft cover to creatures when ranged attacks pass through your square.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Luck Of Heroes",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Hero's Fortune.",
+		"rule",
+		"fill | 1",
+		"text | To others, it seems that you always have a bit of luck around you.",
+		"fill | 1",
+		"text | Whenever you spend a hero point to reroll a die roll or to grant yourself a bonus before a die roll is made, there is a chance that the hero point is not spent. Whenever you spend a hero point, roll a d20. If the result is greater than 15, the hero point is not spent. You cannot use this feat when you cheat death.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Lucky Halfling",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Halfling.",
+		"rule",
+		"fill | 1",
+		"text | You bring luck to those with whom you travel.",
+		"fill | 1",
+		"text | Once per day, when one of your allies within 30 feet makes a saving throw, you may roll the same saving throw as if you were the one subject to the effect requiring it. You may use this ability after your ally has rolled, but before the GM declares if the roll was a success or failure. Your ally may choose to use your saving throw in place of his own.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Major Spell Expertise",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Minor Spell Expertise, ability to cast 9th-level spells.",
+		"rule",
+		"fill | 1",
+		"text | You can cast a single low-level spell as a spell-like ability.",
+		"fill | 1",
+		"text | Choose one spell that you know of 5th level or lower. You may cast that spell twice per day as a spelllike ability. The caster level for this spell-like ability is equal to your caster level in the class from whose spell list the spell is taken. The spell-like ability's save DC is Charisma-based. If the spell has an expensive focus or material component, it may not be chosen for this feat. You cannot apply metamagic feats to this spell.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Master Alchemist",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Craft (alchemy) 5 ranks.",
+		"rule",
+		"fill | 1",
+		"text | Your mastery of alchemy is nearly supernatural.",
+		"fill | 1",
+		"text | You receive a +2 bonus on Craft (alchemy) checks, and you may create mundane alchemical items much more quickly than normal. When making poisons, you can create a number of doses equal to your Intelligence modifier (minimum 1) at one time. These additional doses do not increase the time required, but they do increase the raw material cost. In addition, whenever you make alchemical items or poisons using Craft (alchemy), use the item's gp value as its sp value when determining your progress (do not multiply the item's gp cost by 10 to determine its sp cost).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Merciful Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your damaging spells subdue rather than kill.",
+		"fill | 1",
+		"text | You can alter spells that inf lict damage to inf lict nonlethal damage instead. Spells that inf lict damage of a particular type (such as fire) inf lict nonlethal damage of that same type. A merciful spell does not use up a higher-level spell slot than the spell's actual level.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Minor Spell Expertise",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Ability to cast 4th-level spells.",
+		"rule",
+		"fill | 1",
+		"text | You are able to cast a 1st-level spell as a spell-like ability.",
+		"fill | 1",
+		"text | Choose one 1st-level spell that you know. You may cast that spell twice per day as a spell-like ability. The caster level for this spell-like ability is equal to your caster level in the class from whose spell list the spell is taken. The spell-like ability's save DC is Charisma-based. If the spell has an expensive focus or material component, it may not be chosen for this feat. You cannot apply metamagic feats to this spell.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Missile Shield",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Shield Focus.",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at def lecting ranged attacks with your shield.",
+		"fill | 1",
+		"text | You must be using a light, heavy, or tower shield to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon (not including spell effects, natural attacks, or massive ranged weapons), you may def lect it so that you take no damage, as if you had the Def lect Arrows feat. You must be aware of the attack and not flat-footed.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Mounted Shield",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Mounted Combat, Shield Focus.",
+		"rule",
+		"fill | 1",
+		"text | Your defensive tactics defend both you and your mount.",
+		"fill | 1",
+		"text | You may add your base shield bonus (including the bonus from Shield Focus but not including enhancement bonuses) to your mount's AC. In addition, you may add this bonus when making a Ride check to negate a hit against your mount using the Mounted Combat feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Mounted Skirmisher",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Ride rank 14, Mounted Combat, Trick Riding.",
+		"rule",
+		"fill | 1",
+		"text | You are adept at attacking from upon a swift moving steed.",
+		"fill | 1",
+		"text | If your mount moves its speed or less, you can still take a full-attack action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Outflank",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Base attack bonus +4.",
+		"rule",
+		"fill | 1",
+		"text | You look for every edge when flanking an enemy.",
+		"fill | 1",
+		"text | Whenever you and an ally who also has this feat are flanking the same creature, your flanking bonus on attack rolls increases to +4. In addition, whenever you score a critical hit against the flanked creature, it provokes an attack of opportunity from your ally.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Paired Opportunists",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You know how to make an enemy pay for lax defenses.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you receive a +4 circumstance bonus on attacks of opportunity against creatures that you both threaten. Enemies that provoke attacks of opportunity from your ally also provoke attacks of opportunity from you so long as you threaten them (even if the situation or an ability would normally deny you the attack of opportunity). This does not allow you to take more than one attack of opportunity against a creature for a given action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Parry Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spellcraft 15 ranks, Improved Counterspell.",
+		"rule",
+		"fill | 1",
+		"text | You can throw an enemy spell back at its caster.",
+		"fill | 1",
+		"text | Whenever you successfully counter a spell, it returns back to its caster. This works exactly like the spell turning spell (Pathfinder RPG Core Rulebook page 347).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Parting Shot",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Dodge, Mobility, Point Blank Shot, Shot on the Run, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | You are an expert skirmisher, able to rain missiles upon your enemies whether advancing or retreating.",
+		"fill | 1",
+		"text | Once per encounter, when using the withdraw action, you can make a single ranged attack at any point during your movement.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Pass For Human",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Half-elf, half-orc, or halfling (see Special).",
+		"rule",
+		"fill | 1",
+		"text | You're easily mistaken for a human rather than a member of your own race.",
+		"fill | 1",
+		"text | You receive a +10 bonus on Disguise checks to disguise yourself as a human, and do not receive the penalty for disguising yourself as a member of another race when you do so. In areas largely populated or settled by humans, you can take 10 on your Disguise check, meaning most people tend to assume you are human unless given a reason to think otherwise.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Perfect Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
+		"rule",
+		"fill | 1",
+		"text | When wielding a monk weapon, your attacks can be extremely precise.",
+		"fill | 1",
+		"text | You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). You must use one of the following weapons to make the attack: kama, nunchaku, quarterstaff, sai, and siangham. You can roll your attack roll twice and take the higher result. If one of these rolls is a critical threat, the other roll is used as your confirmation roll (your choice if they are both critical threats). You may attempt a perfect attack once per day for every four levels you have attained (but see Special), and no more than once per round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Persistent Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You can modify a spell to become more tenacious when its targets resist its effect.",
+		"fill | 1",
+		"text | Whenever a creature targeted by a persistent spell or within its area succeeds on its saving throw against the spell, it must make another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the spell, as if it had failed its first saving throw. A persistent spell uses up a spell slot two levels higher than the spell's actual level. Spells that do not require a saving throw to resist or lessen the spell's effect do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Point Blank Master",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Weapon Specialization with selected ranged weapon.",
+		"rule",
+		"fill | 1",
+		"text | You are adept at firing ranged weapons in close quarters.",
+		"fill | 1",
+		"text | Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Practiced Tactician",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Tactician class feature.",
+		"rule",
+		"fill | 1",
+		"text | With only a few quick gestures and commands, you can direct others in combat.",
+		"fill | 1",
+		"text | You can use your tactician ability to grant allies a teamwork feat one additional time per day.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Precise Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at striking where it counts, as long as an ally distracts your foe.",
+		"fill | 1",
+		"text | Whenever you and an ally who also has this feat are flanking the same the creature, you deal an additional 1d6 points of precision damage with each successful melee attack. This bonus damage stacks with other sources of precision damage, such as sneak attack. This bonus damage is not multiplied on a critical hit.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Preferred Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spellcraft 5 ranks, Heighten Spell.",
+		"rule",
+		"fill | 1",
+		"text | You find it very easy to cast one particular spell.",
+		"fill | 1",
+		"text | Choose one spell which you have the ability to cast. You can cast that spell spontaneously by sacrificing a prepared spell or spell slot of equal or higher level. You can apply any metamagic feats you possess to this spell when you cast it. This increases the minimum level of the prepared spell or spell slot you must sacrifice in order to cast it but does not affect the casting time.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Punishing Kick",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
+		"rule",
+		"fill | 1",
+		"text | Your kicks are so powerful you use them to push or knock back your foes.",
+		"fill | 1",
+		"text | You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals damage normally and you can choose to push your target 5 feet or attempt to knock them prone. If you decide to push the target, it is moved 5 feet directly away from you. This movement does not provoke attacks of opportunity, and the target must end this move in a safe space it can stand in. If you decide to attempt to knock the target prone, the target receives a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier to avoid the effect. You may attempt a punishing kick attack once per day for every four levels you have attained (but see Special), and no more than once per round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Pushing Assault",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 15, Power Attack, base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | A strike made with a two-handed weapon can push a similar sized opponent backward.",
+		"fill | 1",
+		"text | When you hit a creature your size or smaller with a two-handed weapon attack modif ied by the Power Attack feat, you can choose to push the target 5 feet directly away from you instead of dealing the extra damage from Power Attack. If you score a critical hit, you can instead push the target 10 feet directly away from you. This movement does not provoke attacks of opportunities, and the target must end this move in a safe space it can stand in. You choose which effect to apply after the attack roll has been made, but before the damage is rolled.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Racial Heritage",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Human.",
+		"rule",
+		"fill | 1",
+		"text | The blood of a non-human ancestor flows in your veins.",
+		"fill | 1",
+		"text | Choose another humanoid race. You count as both human and that race for any effects related to race. For example, if you choose dwarf, you are considered both a human and a dwarf for the purpose of taking traits, feats, how spells and magic items affect you, and so on.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Raging Vitality",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Con 15, rage class feature.",
+		"rule",
+		"fill | 1",
+		"text | While raging, you are full of vigor and health.",
+		"fill | 1",
+		"text | Whenever you are raging, the morale bonus to your Constitution increases by +2. Your rage does not end if you become unconscious. While unconscious you must still expend rounds of rage per day each round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Ray Shield",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 15, Missile Shield, Spellbreaker.",
+		"rule",
+		"fill | 1",
+		"text | You can even deflect rays with your shield.",
+		"fill | 1",
+		"text | You must be using a light, heavy, or tower shield to use this feat. Once per round when you would normally be hit with a ranged touch attack (including rays and similar magical effects), you may def lect it so that you take no damage from it. Your shield suffers the full effects of the spell or effect, if applicable.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Razortusk",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Half-orc.",
+		"rule",
+		"fill | 1",
+		"text | Your powerful jaws and steely teeth are deadly enough to give you a bite attack.",
+		"fill | 1",
+		"text | You can make a bite attack for 1d4 points of damage, plus your Strength modifier. You're considered proficient in this attack and can apply feats or effects appropriate to natural attacks to it. If used as part of a full attack action, the bite is considered a secondary attack and is made at your full base attack bonus -5, and adds half your Strength modifier to damage.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Reach Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your spells go farther than normal.",
+		"fill | 1",
+		"text | You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long. A reach spell uses up a spell slot one level higher than the spell's actual level for each increase in range category. For example, a spell with a range of touch increased to long range uses up a spell slot three levels higher. Spells modif ied by this feat that require melee touch attacks instead require ranged touch attacks. Spells that do not have a range of touch, close, or medium do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Rending Claws",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, two claw natural weapon attacks, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | Your claw attacks do greater harm to your enemy.",
+		"fill | 1",
+		"text | If you hit a creature with two claw attacks in the same turn, the second claw attack deals an additional 1d6 points of damage. This damage is precision damage and is not multiplied on a critical hit. You can use this feat once per round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Repositioning Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Reposition, base attack bonus +9.",
+		"rule",
+		"fill | 1",
+		"text | Your critical hits can move your foes where you wish.",
+		"fill | 1",
+		"text | Whenever you score a critical hit with a melee attack, you can move your opponent, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent's CMD, you may move your opponent as if from the reposition combat maneuver. This does not provoke an attack of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Saving Shield",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Shield Proficiency.",
+		"rule",
+		"fill | 1",
+		"text | You deflect attacks that could mean your ally's death.",
+		"fill | 1",
+		"text | Whenever an adjacent ally is the target of an attack, you can, as an immediate action, grant that adjacent ally a +2 shield bonus to AC. You must be wielding a light shield, heavy shield, or tower shield to use this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Second Chance",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | Quick ref lexes turn missed strikes into second chances.",
+		"fill | 1",
+		"text | When making a full attack, if you miss on your first attack, you can forgo making any other attacks for the rest of your turn to reroll that attack at your highest base attack bonus.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Selective Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | Spellcraft 10 ranks.",
+		"rule",
+		"fill | 1",
+		"text | Your allies need not fear friendly fire.",
+		"fill | 1",
+		"text | When casting a selective spell with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to the ability score modifier used to determine bonus spells of the same type (Charisma for bards, oracles, paladins, sorcerers, and summoners; Intelligence for witches and wizards; Wisdom for clerics, druids, inquisitors, and rangers). These targets are excluded from the effects of your spell. A selective spell uses up a spell slot one level higher than the spell's actual level. Spells that do not have an area of effect or a duration of instantaneous do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shadow Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | You accurately strike even those you cannot clearly see.",
+		"fill | 1",
+		"text | You can deal precision damage, such as sneak attack damage, against targets with concealment (but not total concealment).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shared Insight",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wis 13, half-elf.",
+		"rule",
+		"fill | 1",
+		"text | You deftly direct others' attentions where you wish.",
+		"fill | 1",
+		"text | As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on Perception checks for a number of rounds equal to your Wisdom modifier (minimum 1 round).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sharp Senses",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Keen senses racial trait.",
+		"rule",
+		"fill | 1",
+		"text | Your senses are especially sharp, even for your kind.",
+		"fill | 1",
+		"text | You receive a +4 racial bonus on Perception skill checks. This replaces the normal bonus from the keen senses racial trait.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shield of Swings",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Power Attack, base attack bonus +1.",
+		"rule",
+		"fill | 1",
+		"text | A wild frenzy of attacks serves to bolster your defenses.",
+		"fill | 1",
+		"text | When you take a full-attack action while wielding a two-handed weapon, you can choose to reduce the damage by 1/2 to gain a +4 shield bonus to AC and CMD until the beginning of your next turn. The reduction in damage applies until the beginning of your next turn.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shield Specialization",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Proficiency with selected shield, Shield Focus, fighter level 4th.",
+		"rule",
+		"fill | 1",
+		"text | You have mastered the use of one type of shield.",
+		"fill | 1",
+		"text | Choose one type of shield (buckler, light, heavy, or tower shield). With the selected shield, you gain a +2 bonus to your Armor Class against critical hit confirmation rolls. In addition, you may add your base shield bonus (including the bonus from Shield Focus but not including enhancement bonuses) to your CMD.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shield Wall",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Shield Proficiency.",
+		"rule",
+		"fill | 1",
+		"text | You form a unified defense with those around you.",
+		"fill | 1",
+		"text | Whenever you are wielding a shield and are adjacent to an ally wielding a shield who also has this feat, the AC bonus from your shield increases, depending on the shield wielded by your ally. If your ally is wielding a buckler or a light shield, your shield bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, your shield bonus increases by +2. You keep these bonuses even if your ally loses his shield bonus due to making a shield bash attack. If an adjacent ally with this feat uses a tower shield to grant total cover, you also benefit if an attack targeting you passes through the edge of the shield (Core Rulebook 153).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Shielded Caster",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | Your allies cover you while you cast complicated spells.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you receive a +4 competence bonus on concentration checks. If your ally is wielding a buckler or a light shield, this bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, this bonus increases by +2. Finally, if an enemy threatening you and your ally has the Disruptive feat, or another ability that increases the DC of concentration checks, the amount of the increase is halved.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sickening Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You can sicken creatures with your spells.",
+		"fill | 1",
+		"text | You can modify a spell to sicken a creature damaged by the spell. When a creature takes damage from this spell, they become sickened for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the sickening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the sickening effect. If the spell effect also causes the creature to become sickened, the duration of this metamagic effect is added on to the duration of the spell. A sickening spell uses up a spell slot two levels higher than the spell's actual level. Spells that do not inflict damage do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sidestep",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Dodge, Mobility.",
+		"rule",
+		"fill | 1",
+		"text | You can reposition yourself after a foe's missed swing.",
+		"fill | 1",
+		"text | Whenever an opponent misses you with a melee attack, you may move 5 feet as an immediate action so long as you remain within that opponent's threatened area. This movement does not provoke attacks of opportunity. If you take this step, you cannot take a 5-foot step during your next turn. If you take an action to move during your next turn, subtract 5 feet from your total movement.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Smash",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Power Attack, half-orc.",
+		"rule",
+		"fill | 1",
+		"text | You overcome obstacles by breaking them.",
+		"fill | 1",
+		"text | When you attack an inanimate, unattended object, you ignore the first 5 points of its hardness. You also receive a +5 bonus on Strength checks made to knock down or break open doors.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Smell Fear",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Keen Scent, half-orc or orc.",
+		"rule",
+		"fill | 1",
+		"text | You can catch the sour scent of fear on the wind.",
+		"fill | 1",
+		"text | You receive a +4 bonus on Perception checks to detect creatures with the shaken, frightened, or panicked conditions using scent. You can substitute your Perception skill for Sense Motive skill checks if the subject has one of the previous conditions or is attempting to cover up their fear in some way.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sociable",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, half-elf.",
+		"rule",
+		"fill | 1",
+		"text | You have a way of helping others to get along.",
+		"fill | 1",
+		"text | As a move action, you grant all friendly creatures within 30 feet who can see or hear you (including yourself ) a +2 bonus on Diplomacy checks for a number of rounds equal to your Charisma modifier (minimum 1 round).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spell Perfection",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spellcraft 15 ranks, at least three metamagic feats.",
+		"rule",
+		"fill | 1",
+		"text | You are unequaled at the casting of one particular spell.",
+		"fill | 1",
+		"text | Pick one spell which you have the ability to cast. Whenever you cast that spell you may apply any one metamagic feat you have to that spell without affecting its level or casting time, as long as the total modified level of the spell does not use a spell slot above 9th level. In addition, if you have other feats which allow you to apply a set numerical bonus to any aspect of this spell (such as Spell Focus, Spell Penetration, Weapon Focus [ray], and so on), double the bonus granted by that feat when applied to this spell.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Spider Step",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Acrobatics 6 ranks, Climb 6 ranks, monk level 6th.",
+		"rule",
+		"fill | 1",
+		"text | Your physical mastery grants you an impossible stride.",
+		"fill | 1",
+		"text | As a move action, you can move up to half your slow fall distance (maximum 50 feet) across a wall or ceiling or across ropes, branches, or even water or other surfaces that cannot support your weight. You must reach a solid, level surface by the end of your turn or you will fall.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Stabbing Shot",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Rapid Shot, elf.",
+		"rule",
+		"fill | 1",
+		"text | You can clear the way to continue using your bow.",
+		"fill | 1",
+		"text | When adjacent to an opponent and making a full-attack action with a longbow or shortbow (including composite bows), you may choose to make a melee attack against that opponent with a drawn arrow rather than firing it. If the attack hits-whether or not it does damage-your target is pushed back 5 feet away from you. You can then fire arrows from your bow normally, at the original target, or at another target within range. This melee attack replaces the extra attack from Rapid Shot, and all of your attack rolls for the round (the melee attack and the ranged attacks) take a -2 penalty. If your initial attack leaves you with no enemies threatening you, you can make the subsequent ranged attack or attacks without provoking attacks of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Steel Soul",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dwarf, hardy racial trait.",
+		"rule",
+		"fill | 1",
+		"text | You are especially resistant to magic.",
+		"fill | 1",
+		"text | You receive a +4 racial bonus on saving throws against spells and spell-like abilities. This replaces the normal bonus from the dwarf 's hardy racial trait.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Step Up and Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dex 13, Following Step, Step Up, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | When a foe tries to move away, you can follow and make an attack.",
+		"fill | 1",
+		"text | When using the Step Up or Following Step feats to follow an adjacent foe, you may also make a single melee attack against that foe at your highest base attack bonus. This attack counts as one of your attacks of opportunity for the round. Using this feat does not count toward the number of actions you can usually take each round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Stone Sense",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Improved Stonecunning, Perception 10 ranks.",
+		"rule",
+		"fill | 1",
+		"text | You can feel movement in the very earth and stones around you.",
+		"fill | 1",
+		"text | You gain tremorsense to a range of 10 feet.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Stone Singer",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, bardic performance class feature, dwarf.",
+		"rule",
+		"fill | 1",
+		"text | Your songs are in accordance with the ways and lands of your people.",
+		"fill | 1",
+		"text | When you use bardic performance with audible components underground, the range or area of your chosen performance is doubled, and you can affect deaf creatures if they possess tremorsense and are in your new range. In addition, the DC for saving throws against your bardic performance is increased by +2 for creatures of the earth subtype, regardless of where the performance occurs.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Stone-Faced",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Dwarf.",
+		"rule",
+		"fill | 1",
+		"text | Rocks show more expression than you.",
+		"fill | 1",
+		"text | You receive a +4 bonus on Bluff checks to lie or conceal your feelings or true motives, but not to feint in combat or deliver secret messages. In addition, the DC for Sense Motive checks to get a hunch about you is 25 rather than 20.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Stunning Assault",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Power Attack, base attack bonus +16.",
+		"rule",
+		"fill | 1",
+		"text | You powerful but imprecise attacks can stun your enemies.",
+		"fill | 1",
+		"text | You can choose to take a -5 penalty on all melee attack rolls and combat maneuver checks to stun targets you hit with your melee attacks for 1 round. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Summoner's Call",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Eidolon class feature.",
+		"rule",
+		"fill | 1",
+		"text | Whenever you summon your eidolon, it is more powerful for a brief period of time.",
+		"fill | 1",
+		"text | Whenever you summon your eidolon, you may give it a +2 enhancement bonus to its Strength, Dexterity, or Constitution. This bonus lasts 10 minutes after the summoning ritual is complete.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Sundering Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Str 13, Improved Sunder, Power Attack, base attack bonus +9.",
+		"rule",
+		"fill | 1",
+		"text | Your critical hits can sunder your foes' weapons.",
+		"fill | 1",
+		"text | Whenever you score a critical hit with a melee attack, you can sunder your opponent's weapon, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent's CMD, you may deal damage to your opponent's weapon as if from the sunder combat maneuver (roll normal damage to the weapon separately). This does not provoke an attack of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Swap Places",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You are skilled at changing places with your ally during a chaotic melee.",
+		"fill | 1",
+		"text | Whenever you are adjacent to an ally who also has this feat, you can move into your ally's square as part of normal movement. At the same time, your ally moves into your previous space as an immediate action. Both you and your ally must be willing and able to move to take advantage of this feat. Your ally must be the same size as you to utilize this feat. Your ally does not provoke an attack of opportunity from this movement, but you provoke as normal. This movement does not count against your ally's movement on his next turn.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Swift Aid",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | With a quick but harmless swipe, you can aid an ally's assault.",
+		"fill | 1",
+		"text | As a swift action, you can attempt the aid another action, granting your ally either a +1 bonus on his next attack roll or a +1 bonus to his AC.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Taunt",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, Small size or smaller.",
+		"rule",
+		"fill | 1",
+		"text | You may be small, but your remarks cut others down to size.",
+		"fill | 1",
+		"text | You can demoralize opponents using Bluff rather than Intimidate (see the Intimidate skill description for details) and take no skill check penalty for being smaller than your target.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Team Up",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Gang Up, base attack bonus +6.",
+		"rule",
+		"fill | 1",
+		"text | When you are ganging up against an enemy, you can aid an ally with a quick feint.",
+		"fill | 1",
+		"text | When you and at least two of your allies are adjacent to an opponent, you can attempt the aid another action as a move action.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Teleport Tactician",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Combat Reflexes, Disruptive, Spellbreaker.",
+		"rule",
+		"fill | 1",
+		"text | You are highly alert for enemies using teleportation to approach you or flee from you.",
+		"fill | 1",
+		"text | Any creature using a teleportation effect to enter or leave a square threatened by you provokes an attack of opportunity, even if casting defensively or using a supernatural ability.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Tenacious Transmutation",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Spell Focus (transmutation).",
+		"rule",
+		"fill | 1",
+		"text | Your mastery of the magic of changing makes your transmutations more durable.",
+		"fill | 1",
+		"text | The DC of caster level checks to dispel or remove your transmutations increases by 2; even if the spell is negated, its effects persist for 1 additional round before dissipating.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Thundering Spell",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Metamagic",
+		"property | prerequisites | ",
+		"rule",
+		"fill | 1",
+		"text | You can conjure your spells into existence with blaring thunder or fearful shrieks, deafening creatures damaged by their effects.",
+		"fill | 1",
+		"text | You can modify a spell to deafen a creature damaged by the spell. When a creature takes damage from this spell, it becomes deafened for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the deafening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the deafening effect. If the spell effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the spell. A thundering spell uses up a spell slot two levels higher than the spell's actual level. Spells that do not inf lict damage do not benefit from this feat.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Touch of Serenity",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Wis 18, Improved Unarmed Strike, base attack bonus +8.",
+		"rule",
+		"fill | 1",
+		"text | With a single touch you can reduce the threat of even the most savage of foes.",
+		"fill | 1",
+		"text | You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals no damage and bestows no other effect or condition, but the target cannot cast spells or attack (including attacks of opportunity and attacks as immediate actions) for 1 round unless it succeeds on a Will saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier. You may attempt a touch of serenity once per day for every four levels you have attained (but see Special), and no more than once per round.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Tripping Strike",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Int 13, Combat Expertise, Improved Trip, base attack bonus +9.",
+		"rule",
+		"fill | 1",
+		"text | The force intrinsic to your critical hits can knock your foes down.",
+		"fill | 1",
+		"text | Whenever you score a critical hit with a melee attack, you can trip your opponent, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent's CMD, you may knock your opponent prone as if from the trip combat maneuver. This does not provoke an attack of opportunity. If you are tripped during your own trip attempt, you can drop your weapon to avoid being tripped.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Under and Over",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Agile Maneuvers, Small size or smaller.",
+		"rule",
+		"fill | 1",
+		"text | You can slip under a foe trying to grab you, knocking him off balance.",
+		"fill | 1",
+		"text | If an opponent larger than you attempts to grapple you and fails, you may make a trip attack as an immediate action against that opponent with a +2 bonus. This does not provoke an attack of opportunity.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Underfoot",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | Combat",
+		"property | prerequisites | Dodge, Mobility, Small size or smaller.",
+		"rule",
+		"fill | 1",
+		"text | You slip under and around your larger foes.",
+		"fill | 1",
+		"text | You receive a +4 dodge bonus on Acrobatics checks to move past opponents without provoking attacks of opportunity, so long as they are larger than you. In addition, you gain a +2 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a larger opponent's threatened area (this stacks with the +4 bonus provided by Mobility, for a total bonus of +6).",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Vermin Heart",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Wild empathy class feature.",
+		"rule",
+		"fill | 1",
+		"text | You have a special bond with things that creep, crawl, skitter, and sting.",
+		"fill | 1",
+		"text | You may target vermin with spells and special abilities that only affect animals (although they are still affected by spells targeting vermin as well). You may use wild empathy to inf luence vermin as easily as you inf luence animals.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "War Singer",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Cha 13, bardic performance class feature, half-orc or orc.",
+		"rule",
+		"fill | 1",
+		"text | Your songs draw upon the savage chants and brutal ways of your people, inspiring those around you to new heights of violence and savagery.",
+		"fill | 1",
+		"text | When you use bardic performance with audible components on a battlefield (any area where a combat involving a dozen or more combatants is taking place), the range or area of your chosen performance is doubled. In addition, the DC for saving throws against your bardic performance is increased by +2 for creatures of the orc subtype, regardless of where the performance occurs.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}, {
+	"count": 1,
+	"color": "Maroon",
+	"title": "Well-Prepared",
+	"icon": "enlightenment",
+	"icon_back": "enlightenment",
+	"contents": [
+		"rule",
+		"subtitle | General",
+		"property | prerequisites | Halfling.",
+		"rule",
+		"fill | 1",
+		"text | Somehow, you always seem to have the right tools or supplies close at hand.",
+		"fill | 1",
+		"text | Once per day, when confronted with a situation that calls for a particular mundane item of equipment, you may make a Sleight of Hand check with a DC of 10 plus the item's cost in gold pieces to \"happen\" to have such an item on your person. For example, having a crowbar would be DC 12, whereas a flask of acid would be DC 20. The item must be something you can easily carry-if you are on foot and have only a backpack, for example, you could not have a large iron cauldron. You cannot have magical items using this feat, nor can you have specif ic items, such as the key to a particular door. If you are stripped of your equipment or possessions, you lose the benef its of this feat until you have at least a day to resupply and \"acquire\" new items. You must pay for these items normally.",
+		"fill | 1"
+	],
+	"tags": [
+		"Advanced Player's Guide"
+	]
+}]

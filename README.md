@@ -14,7 +14,7 @@ Etape 2: Go to http://crobi.github.io/rpg-cards/generator/generate.html and use 
 
 Etape 3: In the "Arrangement field" chose the "Side by side or Front side only...".
 
-Etape 4: Click Generate. If nothing happen, you may need to click generate a second time with another "Arrangement option".
+Etape 4: Click Generate. If nothing happen, you may need to click generate a second or third time with another "Arrangement option", something something need to load (the project owner Crobi may have better answer).
 
 Etape 5: ???
 

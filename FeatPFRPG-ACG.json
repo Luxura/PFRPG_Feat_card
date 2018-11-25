@@ -1,0 +1,2521 @@
+[{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Aberrant Tumor",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Aberrant bloodline.",
+			"rule",
+			"fill | 1",
+			"text | To the surprise of others, that strange growth on you is actually your spellcasting companion.",
+			"fill | 1",
+			"text | You gain a tumor familiar, as the tumor familiar alchemist discovery (Pathfinder RPG Ultimate Magic 17), with an effective alchemist level equal to the level of the class that grants your aberrant bloodline for determining the tumor familiar's abilities. If multiple classes grant you the aberrant bloodline, those class levels stack for determining your effective alchemist level.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Amateur Investigator",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Int 13, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your knowledge is more than plain smarts-it's inspired.",
+			"fill | 1",
+			"text | Like an investigator, you have the ability to augment your Knowledge, Linguistics, and Spellcraft skill checks. You gain a pool of inspiration equal to your Intelligence modifier. You can expend one use of inspiration as a free action to add 1d6 to the result of a Knowledge, Linguistics, or Spellcraft check, as long as you are trained in that skill (even if you take 10 or 20 on that check). You make this choice after the check is rolled and before the results of the roll are revealed. You can use inspiration only once per skill check. Your pool of inspiration refreshes each day, typically after you get a restful night's sleep.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Amateur Swashbuckler",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | No levels in a class that has the panache class feature.",
+			"rule",
+			"fill | 1",
+			"text | Although you're not a swashbuckler, you have and can use panache.",
+			"fill | 1",
+			"text | You gain a small amount of panache and the ability to perform a single 1st-level swashbuckler deed. Choose a 1st-level deed from the swashbuckler's deeds class feature (see page 56; you can't select opportune parry and riposte). Once chosen, this deed can't be changed.  At the start of each day, you gain 1 panache point. Throughout the day, you can gain a number of panache points, up to a maximum equal to your Charisma modifier (minimum 1). You can regain panache points as the swashbuckler's panache class feature (see page 56). You can spend these points to perform the 1st-level deed you chose upon taking this feat as well as any other deeds you have gained through feats or magic items.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Animal Soul",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Animal companion or mount class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your close bond with an animal allows you to use magic that targets animals on yourself.",
+			"fill | 1",
+			"text | You can allow spells and effects that affect animals, animal companions, and special mounts to affect you, even if the spells do not normally affect creatures of your type. For example, you could cast animal growth or reduce animal on yourself, even though those spells normally affect only animals. An ally could cast raise animal companion on you to bring you back from the dead. An opponent could not cast charm animal or dominate animal on you unless you chose to allow the spell to affect you as if you were an animal.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Anticipate Dodge",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dodge, Mobility; base attack bonus +7, brawler level 4th, or monk level 4th.",
+			"rule",
+			"fill | 1",
+			"text | Your knowledge of mobility and your attack prowess allow you to thwart elusive opponents.",
+			"fill | 1",
+			"text | You automatically know whether a creature you can see has a dodge bonus to its AC. You gain up to a +2 bonus on attack rolls against a target that has a dodge bonus. This bonus cannot exceed the dodge bonus of the creature you attack.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Barroom Brawler",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Base attack bonus +4.",
+			"rule",
+			"fill | 1",
+			"text | You have learned how to mimic the combat tricks and forms of others.",
+			"fill | 1",
+			"text | Once per day as a move action, you can gain the benefit of a combat feat that you do not possess for 1 minute. You must otherwise meet the feat's requirements.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Battle Cry",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Cha 13; base attack bonus +5 or Perform (act, oratory, or sing) 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Your shout heartens your allies and encourages them in the fight.",
+			"fill | 1",
+			"text | A number of times per day equal to your Charisma bonus, you can let out a battle cry as a swift action. When you do, allies within 30 feet who can hear you gain a +1 morale bonus on attack rolls and a +4 morale bonus on saving throws against fear. This effect lasts for 1 minute.  If an ally is under the effect of this feat and fails a saving throw against a fear effect, she can choose to end the battle cry's effect on her to reroll the failed save. The ally must take the result of the reroll, even if it's lower. Each ally can use this effect only once per use of this feat.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Befuddling Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
+			"rule",
+			"fill | 1",
+			"text | You know just where to strike to temporarily send your enemy into a confused stupor.",
+			"fill | 1",
+			"text | Befuddling Strike forces a foe damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. You must declare that you are using this feat before you make your attack roll-thus, a failed attack roll ruins the attempt. A defender who fails this saving throw is confused for 1d4 rounds. You can attempt to use Befuddling Strike once per day for every 4 character levels you have, but can use it no more than once per round. Constructs, incorporeal creatures, mindless creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Believer's Boon",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Wis 13, alignment must be within one step of your deity's.",
+			"rule",
+			"fill | 1",
+			"text | Your deity rewards you for your faithfulness.",
+			"fill | 1",
+			"text | Choose one domain granted by your deity. Once per day, you can use all 1st-level domain abilities granted to clerics of that domain. You gain access to this one ability only, not the higher-level domain ability, domain spells, or additional class skills that the domain might grant, or any bonus feats that are listed under its granted powers. Your effective cleric level in regard to this ability is 1st level.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Believer's Hands",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Wis 13, Believer's Boon, must be lawful good, alignment must be within one step of your deity's.",
+			"rule",
+			"fill | 1",
+			"text | You can heal others with a touch of your hand.",
+			"fill | 1",
+			"text | Once per day, you can use the paladin's lay on hands ability. Your effective paladin level is equal to 1/2 your character level (minimum 1). If you already have (or later gain) the lay on hands ability, you instead gain one extra use of lay on hands each day.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Blasting Charge",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Base attack bonus +7, ability to cast 2nd-level bloodrager spells, bloodrage class feature.",
+			"rule",
+			"fill | 1",
+			"text | You funnel the power of your bloodrage into a strike capable of erupting with arcane power.",
+			"fill | 1",
+			"text | While you are bloodraging, at the end of a charge you can expend a bloodrager spell slot as a swift action to imbue your charge attack with extra power. You deal an additional 1d6 points of damage per level of the spell slot expended. This extra damage is force damage, and it's not multiplied in the case of a critical hit. If your bloodline has a specific energy type associated with it (such as the elemental or draconic bloodlines), you can choose to increase the damage to 1d8 points per level of the spell slot expended, and this extra damage is of that energy type.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Blessed Striker",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Base attack bonus +11, ability to cast divine spells, alignment must be within one step of your deity's.",
+			"rule",
+			"fill | 1",
+			"text | You attacks are augmented by the strength of your and your deity's shared alignment.",
+			"fill | 1",
+			"text | All of your attacks are treated as having whatever alignment components you and your deity share for the purpose of overcoming damage reduction.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Blooded Arcane Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Arcane Strike, ability to cast arcane spells, bloodrage class feature.",
+			"rule",
+			"fill | 1",
+			"text | Arcane energy guides your devastating attack.",
+			"fill | 1",
+			"text | While you are bloodraging, you don't need to spend a swift action to use your Arcane Strike-it is always in effect. When you use this ability with Vital Strike, Improved Vital Strike, or Greater Vital Strike, the bonus on damage rolls for Arcane Strike is multiplied by the number of times (two, three, or four) you roll damage dice for one of those feats.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Bookish Rogue",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Minor magic rogue talent.",
+			"rule",
+			"fill | 1",
+			"text | Thanks to your preparation, your arcane ability is more varied than most.",
+			"fill | 1",
+			"text | By studying a spellbook for 10 minutes, you can change one spell you are able to cast using your minor magic or major magic rogue talent to one sorcerer/wizard spell of the same level contained in the spellbook. This change is permanent until you take the time to change it via this feat again.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Canny Tumble",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dodge, Mobility, Acrobatics 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Your acrobatic prowess distracts your foes.",
+			"fill | 1",
+			"text | When you use Acrobatics to move through an opponent's threatened area or space without provoking an attack of opportunity from that opponent, you gain a +2 circumstance bonus on your next melee attack roll against that opponent and that opponent is denied its Dexterity bonus to AC, as long as you make that attack before the start of your next turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Channeled Blessing",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Blessings class feature, channel energy class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your channeled energy can deliver a warpriest's blessing.",
+			"fill | 1",
+			"text | When you channel energy to heal, you can instead deliver a warpriest's blessing to a single willing creature (including yourself ) in the area that otherwise would have been healed by your channeled energy. The blessing must be one that requires a standard action and affects one or more creatures. If the blessing would normally affect multiple targets, you affect only a single target. The target receives the blessing in place of the healing and any other effects of the channeled energy. (This application doesn't count toward your uses of blessings per day.)",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Channeling Force",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Ability to cast at least one force spell, channel energy class feature.",
+			"rule",
+			"fill | 1",
+			"text | You distill your channeled energy into a sheen of force that surrounds your weapon for a limited time.",
+			"fill | 1",
+			"text | A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to the number of dice of your channel energy. This extra damage is force damage. This lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Confounding Tumble Deed",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Amateur Swashbuckler feat or panache class feature, Canny Tumble, Acrobatics 7 ranks.",
+			"rule",
+			"fill | 1",
+			"text | You can befuddle a foe by striking a blow after tumbling.",
+			"fill | 1",
+			"text | When you use Acrobatics to move through an opponent's threatened area or space without provoking an attack of opportunity from that opponent and then hit that foe with a melee attack in the same round, as a free action you can spend 1 panache point to deny that foe its Dexterity bonus to its armor class until the end of your next turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Disarming Threat Deed",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Amateur Swashbuckler or panache class feature; Diplomacy 2 ranks, Intimidate 2 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Even your threats are curiously charming.",
+			"fill | 1",
+			"text | When you succeed at an Intimidate check to force an opponent to act friendly toward you, you can spend 1 panache point to cause the target to regard you with indifference when the duration of the effect expires. A target inf luenced in this manner is unlikely to report you to authorities.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Coordinated Shot",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Point-Blank Shot.",
+			"rule",
+			"fill | 1",
+			"text | Your ranged attacks against an opponent take advantage of your ally's positioning.",
+			"fill | 1",
+			"text | If your ally with this feat is threatening an opponent and is not providing cover to that opponent against your ranged attacks, you gain a +1 bonus on ranged attacks against that opponent. If your ally with this feat is flanking that opponent with another ally (even if that other ally doesn't have this feat), this bonus increases to +2.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Counter Reflexes",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Anticipate Dodge, Dodge, Mobility; base attack bonus +9, brawler level 6th, or monk level 6th.",
+			"rule",
+			"fill | 1",
+			"text | Your opponent's advanced training in moving around you is surpassed only by your readiness for it.",
+			"fill | 1",
+			"text | Opponents with the Mobility feat do not gain the dodge bonus granted by that feat when they provoke attacks of opportunity by moving out of or within your threatened area.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Counterpunch",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 18, Combat Reflexes, Improved Unarmed Strike, Weapon Focus (unarmed strike); base attack bonus +16 or brawler level 12th.",
+			"rule",
+			"fill | 1",
+			"text | With deft ref lexes, you capitalize on opponents' mistakes.",
+			"fill | 1",
+			"text | Once per round, when you are fighting unarmed with both hands free and an opponent misses you with a melee attack, the opponent provokes an attack of opportunity from you. You must use an unarmed strike for this attack of opportunity.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Dazing Fist",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +4.",
+			"rule",
+			"fill | 1",
+			"text | You know just where to strike to daze your foe.",
+			"fill | 1",
+			"text | You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Dazing Fist forces a foe damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. A foe who fails this saving throw is dazed for 1 round, until just before your next turn. You can attempt to use Dazing Fist once per day for every 4 character levels you have, but no more than once per round. Constructs, incorporeal creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Disable Dweomer",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Disable Device 5 ranks, Use Magic Device 5 ranks, trapfinding.",
+			"rule",
+			"fill | 1",
+			"text | You can disable a magic item, suppressing it for a short time.",
+			"fill | 1",
+			"text | You can use Disable Device to suppress the magic of a non-artifact magic item for 1d4 rounds, after which the item recovers its magical properties. A suppressed item becomes nonmagical for the duration of the suppression. Using Disable Device in this way takes 2d4 rounds, with a DC of 15 + the item's caster level.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Disheartening Display",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dazzling Display, Weapon Focus, base attack bonus +6, proficiency with chosen weapon.",
+			"rule",
+			"fill | 1",
+			"text | Your show of prowess further demoralizes others.",
+			"fill | 1",
+			"text | When you successfully use Dazzling Display against any shaken, frightened, or panicked opponents, their fear increases by one step. An already panicked creature demoralized by this feat cowers. Once affected by this feat, a creature cannot be affected by it again (by you or anyone else) for 24 hours.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Distracting Charge",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | ",
+			"rule",
+			"fill | 1",
+			"text | Your ally's charge exposes an opening you can exploit.",
+			"fill | 1",
+			"text | When your ally with this feat uses the charge action and hits, you gain a +2 bonus on your next attack roll against the target of that charge. This bonus must be used before your ally's next turn, or it is lost.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Divine Protection",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Cha 13, Knowledge (religion) 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Your deity protects you against deadly attacks.",
+			"fill | 1",
+			"text | Once per day as an immediate action before rolling a saving throw, you can add your Charisma modifier on that saving throw. As usual, this does not stack if you already apply your Charisma modifier to that saving throw. If you possess the charmed life class feature, you can instead apply Divine Protection's bonus after rolling the saving throw but before the result is revealed.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Draining Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
+			"rule",
+			"fill | 1",
+			"text | With a well-aimed strike, you cause your target to become fatigued or exhausted.",
+			"fill | 1",
+			"text | You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Draining Strike forces a foe that was damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. An opponent who fails this saving throw is fatigued for 1 minute or until the foe is subject to any spell or effect that heals hit point damage. If you have a base attack bonus of +14 or higher, the target is exhausted for the same duration instead. You can attempt to use Draining Strike once per day for every 4 character levels you have, but you can use it no more than once per round. Constructs, incorporeal creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Dueling Cape Deed",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dodge, Sleight of Hand 1 rank.",
+			"rule",
+			"fill | 1",
+			"text | You can use a simple cape to guard yourself and confound your foes.",
+			"fill | 1",
+			"text | As a move action, you can wrap a cape that you're wearing around your arm (removing it if necessary), and treat it as a buckler. If you are using the cape in this way, and an opponent misses you with a melee attack, as an immediate action you can spend 1 panache point to release your cape from your arm and entangle your foe with it. The foe can free itself by using a full-round  action to escape or by destroying the cape; a typical cape has hardness 1 and 3 hit points. You can use this feat with items similar in shape and weight to a cape, such as a cloak or a curtain.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Energy Channel",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Channel energy class feature; Air, Earth, Fire, or Water domain or blessing.",
+			"rule",
+			"fill | 1",
+			"text | You distill your channeled energy into your weapon to empower it.",
+			"fill | 1",
+			"text | A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is of an energy type determined by your domain or blessing: acid (Earth), cold (Water), electricity (Air), or fire (Fire). If you have more than one of those domains or blessings, you must choose one of those damage types when you use this ability. This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Esoteric Linguistics",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Skill Focus (Linguistics).",
+			"rule",
+			"fill | 1",
+			"text | You can decipher even the most exotic of writings, including those that contain magic.",
+			"fill | 1",
+			"text | You can attempt a Linguistics check in place of a Use Magic Device check to activate a scroll, or in place of a Spellcraft check to identify a scroll. You must still have (or emulate) the ability score required to cast a spell of the desired level, and you cannot use Linguistics on the check to emulate the required ability score.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Evolved Companion",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Cha 13, animal companion class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your animal companion has unique abilities.",
+			"fill | 1",
+			"text | When you take this feat, select a 1-point evolution other than pounce or reach from those available to a summoner's eidolon. Your animal companion gains this evolution. The animal companion must conform to any limitations of the evolution. For instance, you can give the mount evolution only to an animal companion of an appropriate size and base form.  If you gain a new animal companion, your old animal companion loses this evolution, and you can select a new 1-point evolution for the new animal companion.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Evolved Summoned Monster",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Augmented Summoning, Spell Focus (conjuration), ability to cast summon monster I.",
+			"rule",
+			"fill | 1",
+			"text | The creatures you summon have evolved to have even greater abilities.",
+			"fill | 1",
+			"text | Each time you cast a summon monster spell, you can select a 1-point evolution other than pounce or reach from those available to a summoner's eidolon. Your summoned creature gains this evolution. The summoned creature must conform to any limitations of the evolution. (For instance, only a creature with a reach of 10 feet or greater can have the pull evolution.) Evolutions that grant additional attacks or enhance existing attacks can be applied only to Medium or larger summoned creatures.  If you summon more than one creature with a single spell, only one creature gains the evolution.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Expanded Preparation",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Arcanist level 1st.",
+			"rule",
+			"fill | 1",
+			"text | You can prepare more spells than other arcanists can.",
+			"fill | 1",
+			"text | You gain an extra spell prepared of the highest level you can currently cast as an arcanist when selecting this feat. This is in addition to the number of spells you can normally prepare from your spellbook. You can instead add two spells prepared, but both of these slots must be at least 1 level lower than the highest-level spell you can currently cast as an arcanist when selecting this feat. You must choose which benefit you gain when you take this feat, and the extra spells prepared do not change level when you gain access to higher-level spells.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extended Animal Focus",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Animal focus class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your ability to emulate an animal lingers longer.",
+			"fill | 1",
+			"text | Add your Wisdom modifier (minimum 1) to the number of minutes per day that you can use your animal focus ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Arcanist Exploit",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Arcanist exploit class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your repertoire of arcanist exploits expands.",
+			"fill | 1",
+			"text | You gain one additional arcanist exploit. You must meet the prerequisites for this arcanist exploit.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Inspiration",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Amateur Investigator or inspiration class feature.",
+			"rule",
+			"fill | 1",
+			"text | You are more able to draw upon inspiration than most.",
+			"fill | 1",
+			"text | You gain three extra use per day of inspiration in your inspiration pool.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Investigator Talent",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Investigator talent class feature.",
+			"rule",
+			"fill | 1",
+			"text | You learn a new way to use your training and inspiration.",
+			"fill | 1",
+			"text | You gain one additional investigator talent. You must meet the prerequisites for this investigator talent.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Martial Flexibility",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Martial flexibility class feature.",
+			"rule",
+			"fill | 1",
+			"text | You are extremely versatile in a fight.",
+			"fill | 1",
+			"text | You can use your martial flexibility ability three additional times per day.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Panache",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Amateur Swashbuckler or panache class feature.",
+			"rule",
+			"fill | 1",
+			"text | You have more panache than the ordinary swashbuckler.",
+			"fill | 1",
+			"text | You gain 2 more panache points at the start of each day, and your maximum panache increases by 2.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Reservoir",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Arcane reservoir class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your reservoir of arcane energy is greater than others'.",
+			"fill | 1",
+			"text | You gain three more points in your arcane reservoir, and the maximum number of points in your arcane reservoir increases by that amount.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extra Slayer Talent",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Slayer talent class feature.",
+			"rule",
+			"fill | 1",
+			"text | Through long practice, you have learned how to perform a special talent.",
+			"fill | 1",
+			"text | You gain one additional slayer talent. You must meet the prerequisites for this slayer talent.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Extreme Prejudice",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Seething Hatred, sneak attack +3d6, studied target class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your hatred of a particular type of creature has honed your killer instinct.",
+			"fill | 1",
+			"text | When you succeed at a sneak attack against a creature you selected as the target of your Seething Hatred feat, you use d8s to roll sneak attack damage instead of d6s.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Favored Enemy Spellcasting",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to cast spells.",
+			"rule",
+			"fill | 1",
+			"text | Your spells are more effective against creatures that you especially abhor.",
+			"fill | 1",
+			"text | When you select this feat, choose a creature type or a humanoid subtype from the Ranger Favored Enemies table (Core Rulebook 64). When creatures of the chosen type attempt saving throws against your spells, they treat the spells' DCs as 1 higher. If you also have the favored enemy class feature and the chosen type is already a favored enemy of yours, such creatures treat your spells' DCs as 2 higher.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Faerie's Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Ephemeral wisps of nature spirits dance about those you strike.",
+			"fill | 1",
+			"text | When you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), the creature you hit with the attack must succeed at a Will save (DC = 10 + 1/2 your character level + your Wisdom modifier) or be illuminated as if by faerie fire for 1 minute. You can use this benefit a number of times per day equal to your Wisdom modifier (minimum 1).",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Flexible Hex",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Wandering hex class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your wandering hex shifts at your command.",
+			"fill | 1",
+			"text | Once per day as a swift action, you can change your wandering hex. When you change your hex, the new hex must be associated with the wandering spirit with which you are currently bonded. At 12th level, you can change either or both of your wandering hexes with the feat.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Flexible Wizardry",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Spell Mastery, wizard level 1st.",
+			"rule",
+			"fill | 1",
+			"text | You have learned a trick that makes your spellcasting more flexible.",
+			"fill | 1",
+			"text | When you prepare your spells each day, you can choose to keep a number of spell slots equal to your Intelligence modifier (minimum 1) flexibly prepared. Instead of preparing a single spell within each of these slots, you can partially prepare two spells. Anytime after you prepare these flexible slots, you can spend a full-round action to finalize one slot, choosing one of the two spells to be finished and fully prepared in that slot.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Focused Inspiration",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Inspiration class feature, keen recollection class feature.",
+			"rule",
+			"fill | 1",
+			"text | Two of your skills gain a bit more from your inspiration than others.",
+			"fill | 1",
+			"text | Choose two skills that you either are trained in or can otherwise use untrained. You must be able to use inspiration on these skills. When you use inspiration with those skills, roll a d8 instead of a d6, or a d10 if you would normally roll a d8. If you have the true inspiration class feature, you roll twice as many such dice (2d8 or 2d10) as normal.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Force Dash",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Base attack bonus +4, ability to cast 2nd-level arcane spells, ability to cast at least one arcane force spell.",
+			"rule",
+			"fill | 1",
+			"text | You can absorb the magic in your force spells to give you a concentrated burst of speed.",
+			"fill | 1",
+			"text | As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet x the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal -2 penalty to AC until the start of your next turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Formula Recollection",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Spellcraft 5 ranks, keen recollection class feature.",
+			"rule",
+			"fill | 1",
+			"text | You are able to record and recall even the complex and intricate details of spellcasting.",
+			"fill | 1",
+			"text | Once per day, you can record the formula for a spell that you saw being cast and identified with Spellcraft in the past 24 hours. This spell must be on the alchemist formula list.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Grabbing Drag",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Grabbing Style, Improved Grapple; base attack bonus +8, brawler level 4th, or monk level 4th.",
+			"rule",
+			"fill | 1",
+			"text | You can move easily with a grappled enemy in tow.",
+			"fill | 1",
+			"text | When you are using Grabbing Style, if you use the move grapple action, you can move both yourself and a single target that you're grappling your full speed instead of half your speed. After you have done so, you can use a move action to move yourself and the target of your grapple half your speed without needing to attempt an additional combat maneuver check. You cannot use this feat if you are grappling two targets.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Grabbing Master",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Grabbing Drag, Grabbing Style, Improved Grapple; base attack bonus +12, brawler level 8th, or monk level 8th.",
+			"rule",
+			"fill | 1",
+			"text | You can grapple two foes as easily as one.",
+			"fill | 1",
+			"text | When you are grabbing two opponents while using Grabbing Style, you can use your grapple to move or damage one or both opponents you are grappling, instead of just one.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Grabbing Style",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Improved Grapple; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature.",
+			"rule",
+			"fill | 1",
+			"text | You are adept at the one-handed grab.",
+			"fill | 1",
+			"text | When you use this style, you do not take a -4 penalty on combat maneuver checks to grapple a foe with only one hand. Additionally, you do not lose your Dexterity bonus to AC while pinning an opponent.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Grasping Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | The surrounding foliage lurches forth at your enemies in concert with your strikes.",
+			"fill | 1",
+			"text | When you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), you cause the foliage in the area to reach out and entangle your foe (as the condition) if it fails a Reflex save (DC = 10 + 1/2 your character level + your Wisdom modifier). The effect lasts for 1 minute or until the enemy breaks free with a successful Strength check or an Escape Artist check (DC = the effect's saving throw DC), whichever comes first. You can use this benefit a number of times per day equal to your Wisdom modifier (minimum 1). You can choose to use this ability as a free action after you hit the enemy with the attack. This is a supernatural ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Greater Dirge Of Doom",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Improved Dirge of Doom, ability to perform dirge of doom.",
+			"rule",
+			"fill | 1",
+			"text | The haunting sound of sepulchral intonations chills the most stalwart adversary to its very core.",
+			"fill | 1",
+			"text | The effect of your dirge of doom lingers with a target for 2 rounds after the creature leaves the dirge's area of effect. If you use your dirge on a creature that is shaken, it becomes frightened. If you use it on a creature that is frightened, it becomes panicked. Once affected by this feat, a creature cannot be affected by it again for 24 hours.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Greater Skald's Vigor",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Skald's Vigor, Perform (song) 10 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Your song and your enthusiasm invigorate your allies.",
+			"fill | 1",
+			"text | Your allies share in the fast healing granted by your Skald's Vigor, starting in the round when you begin your performance. They must be able to hear the performance. If you stop maintaining the song, the fast healing ends immediately, even if other effects of your song linger.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Greater Weapon Of The Chosen",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Improved Weapon of the Chosen, Weapon Focus with deity's favored weapon, Weapon of the Chosen, must worship and receive spells from a deity.",
+			"rule",
+			"fill | 1",
+			"text | Your deity guides your hand when you fight with her favored weapon.",
+			"fill | 1",
+			"text | When you use your deity's favored weapon to attempt a single attack with the attack action, you roll two dice for your attack roll and take the higher result. You do not need to use your Weapon of the Chosen feat to gain this feat's benefit. As usual, the reroll does not apply to any confirmation rolls.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Gruesome Slaughter",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Intimidating Prowess, Killing Flourish, Intimidate 11 ranks, slayer level 11th.",
+			"rule",
+			"fill | 1",
+			"text | You can inspire extreme revulsion when you slaughter your enemies.",
+			"fill | 1",
+			"text | Creatures you demoralize by using the Killing Flourish feat must succeed at a Fortitude save (DC = 10 + 1/2 your character level + the higher of your Strength or Dexterity modifier) or become sickened for 1 minute.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Dirge Of Doom",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to perform dirge of doom.",
+			"rule",
+			"fill | 1",
+			"text | The foreboding tone of your dirge is especially effective at unsettling your enemies.",
+			"fill | 1",
+			"text | The range of your dirge of doom ability is extended to 60 feet. Additionally, if a creature is shaken from another effect, the effect of your dirge of doom is changed to frightened for that specific creature. This benefit cannot cause a creature to become panicked, even if a target is already frightened from another effect. Once affected by this feat, a creature cannot be affected by it again for 24 hours.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Duck And Cover",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Duck and CoverAPG.",
+			"rule",
+			"fill | 1",
+			"text | Your allies' ability to protect you from damage extends to area attacks.",
+			"fill | 1",
+			"text | Whenever you use Duck and Cover, your ally has evasion or improved evasion, and your ally's saving throw roll succeeds, half of the damage you would have taken is transferred to your ally. (This damage is not reduced by the ally's evasion or improved evasion.)",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Flexible Wizardry",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Flexible Wizardry, Spell Mastery, wizard level 8th.",
+			"rule",
+			"fill | 1",
+			"text | You possess an impressive flexibility with casting that other wizards lack.",
+			"fill | 1",
+			"text | When you use Flexible Wizardry, you can f lexibly prepare a number of spell slots equal to your Intelligence modifier + 4. Furthermore, you can finalize one of these slots with a standard action instead of a fullround action.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Spell Sharing",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to acquire an animal companion, eidolon, familiar, or special mount.",
+			"rule",
+			"fill | 1",
+			"text | Your link with your companion creature allows you to share your magic with it.",
+			"fill | 1",
+			"text | When you are adjacent to or sharing a square with your companion creature and that companion creature has this feat, you can cast a spell on yourself and divide the duration evenly between yourself and the companion creature. You can use this feat only on spells with a duration of at least 2 rounds. For example, you could cast bull's strength on yourself, and instead of the spell lasting 1 minute per level on yourself, it lasts 5 rounds per level on yourself and 5 rounds per level on your companion. Once the spell is cast, you and the companion creature can move farther apart without ending the effect.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Studied Combatant",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Int 13, Amateur Investigator, Studied Combatant, base attack bonus +8, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature.",
+			"rule",
+			"fill | 1",
+			"text | Deep understanding of your foes' tics grants you the upper hand in combat.",
+			"fill | 1",
+			"text | Your bonuses for Studied Combatant increase to a +4 insight bonus on melee attack rolls and a +4 bonus on damage rolls. This feat otherwise works like the Studied Combatant feat.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Swap Places",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Swap PlacesAPG.",
+			"rule",
+			"fill | 1",
+			"text | When you switch places with your comrade, your sizes don't matter.",
+			"fill | 1",
+			"text | When you and your ally use Swap Places, your ally can be up to one size larger or smaller than you, and your movement into the ally's square does not provoke an attack of opportunity. If your ally cannot fit into the space you had been occupying and there are no available adjacent squares to accommodate the rest of the ally's space, the ally must squeeze. Alternatively, as part of its movement, the ally can attempt a bull rush combat maneuver against a creature that occupies a space your ally would occupy, but this bull rush cannot move the creature more than 5 feet.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Improved Weapon Of The Chosen",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Weapon Focus with your deity's favored weapon, Weapon of the Chosen.",
+			"rule",
+			"fill | 1",
+			"text | You gain even greater favor when you use your deity's favored weapon.",
+			"fill | 1",
+			"text | This feat acts as Weapon of the Chosen, except you gain the benefits on all attacks until the start of your next turn. Your attacks gain a single alignment component of your deity-either chaotic, evil, good, or lawful-for the purpose of overcoming damage reduction. If your deity is neutral with no other alignment components, your attacks instead overcome damage reduction as though your weapon were both cold iron and silver.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Insightful Delivery",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Poison use class feature, studied strike +4d6.",
+			"rule",
+			"fill | 1",
+			"text | Your knowledge of where to strike makes your poisons more deadly.",
+			"fill | 1",
+			"text | When you use a poisoned weapon to attempt an attack in conjunction with studied strike, the DC to resist the poison increases by half the number of your studied strike dice.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Inspired Alchemy",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to create 2nd-level extracts, alchemy class feature, inspiration class feature.",
+			"rule",
+			"fill | 1",
+			"text | With some inspiration and elbow grease, you can recreate a consumed extract in a pinch.",
+			"fill | 1",
+			"text | You can recreate an extract that you consumed during the past hour. You must spend 10 minutes and expend a number of uses of inspiration equal to the level of the extract's formula to do so. When you recreate an extract in this way, it does not count toward the number of extracts you can prepare in a day.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Inspired By Fear",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to perform dirge of doom.",
+			"rule",
+			"fill | 1",
+			"text | When spreading fear to your enemies, you further embolden your allies.",
+			"fill | 1",
+			"text | Allies in the area of your dirge of doom receive a +4 morale bonus on saving throws against fear effects. At least one enemy must be in the dirge's area and become shaken by the dirge for you and your allies to receive this bonus.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Inspired Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Studied combat class feature.",
+			"rule",
+			"fill | 1",
+			"text | You can turn your natural talent as easily to weapon-work as to skills.",
+			"fill | 1",
+			"text | When you damage a creature by using the studied combat class feature, you can expend one use of inspiration to roll an inspiration die and increase the damage by the number rolled.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Intercept Charge",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | ",
+			"rule",
+			"fill | 1",
+			"text | You can get in the way of an opponent charging your ally.",
+			"fill | 1",
+			"text | When an opponent charges your ally with this feat, as an immediate action you can move up to your speed toward any square in the path of the charge. If you end your movement in the path of the charge, the opponent must stop when it becomes adjacent to you and then attack you instead of your ally. Your movement from using this feat counts toward your movement on your next turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Intimidating Performance",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to start a performance (or raging song) as a move action, bardic performance or raging song class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your performance strikes fear in the hearts of foes.",
+			"fill | 1",
+			"text | When you start a performance (or a raging song) as a move or swift action, you can use a standard action to demoralize a foe (Core Rulebook 99), attempting a Perform check appropriate to your performance in place of the Intimidate check. Your performance must be one with an audible component. If you can start a performance as a swift action and you have the Dazzling Display feat, you can gain the benefit of Dazzling Display by succeeding at a Perform check in place of an Intimidate check.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Jabbing Dancer",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dodge, Improved Unarmed Strike, Jabbing Style, Mobility; base attack bonus +9, brawler level 5th, or monk level 5th.",
+			"rule",
+			"fill | 1",
+			"text | You've learned to bend and shift your body to avoid attacks and reposition yourself advantageously.",
+			"fill | 1",
+			"text | Each time you hit with an unarmed strike while using Jabbing Style, you can move 5 feet without provoking an attack of opportunity as long as you move to a space adjacent to the opponent you hit with the unarmed strike. If you use this feat, you cannot take a 5-foot step during your next turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Jabbing Master",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dodge, Improved Unarmed Strike, Jabbing Dancer, Jabbing Style, Mobility, Power Attack; base attack bonus +12, brawler level 8th, or monk level 8th.",
+			"rule",
+			"fill | 1",
+			"text | Your quick punches become even more lethal.",
+			"fill | 1",
+			"text | While using Jabbing Style, the extra damage you deal when you hit a single target with two unarmed strikes increases to 2d6, and the extra damage when you hit a single target with three or more unarmed strikes increases to 4d6.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Jabbing Style",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Improved Unarmed Strike; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature.",
+			"rule",
+			"fill | 1",
+			"text | A cluster of quick strikes deals more damage than a single roundhouse swing.",
+			"fill | 1",
+			"text | When you hit a target with an unarmed strike and you have hit that target with an unarmed strike previously that round, you deal an extra 1d6 points of damage to that target.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Kick Up",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 12, Acrobatic, Acrobatics 1 rank; slayer level 1st or swashbuckler level 1st.",
+			"rule",
+			"fill | 1",
+			"text | You have learned how to kick items on the ground to a ready hand.",
+			"fill | 1",
+			"text | As long as you have at least one hand free, you can use a swift action to retrieve a single unattended item or weapon that weighs 10 pounds or less from the ground, either in your square or in any adjacent square not occupied or threatened by an enemy. Additionally, when you kick up a weapon and attempt a feint before the end of your turn, you receive a +2 circumstance bonus on the feint attempt.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Killing Flourish",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Intimidating Prowess, Intimidate 4 ranks, slayer level 4th.",
+			"rule",
+			"fill | 1",
+			"text | You inspire dread in other foes when you slay an enemy.",
+			"fill | 1",
+			"text | When you reduce your target to below 0 hit points with a melee attack, as a swift action you can attempt an Intimidate check to demoralize all foes within 30 feet who can see your attack.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Lay Of The Land",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Animal focus class feature, wild empathy class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your affinity to nature grants you greater insight into specific biomes.",
+			"fill | 1",
+			"text | You gain a favored terrain as the ranger ability of the same name, though the favored terrain bonuses you receive do not increase with your level. This ability counts as the favored terrain class feature for the purposes of prerequisites and other effects.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Lunging Spell Touch",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Spellcraft 6 ranks.",
+			"rule",
+			"fill | 1",
+			"text | You can extend your reach to touch foes that would normally be too far away.",
+			"fill | 1",
+			"text | You can increase the reach of your spells' melee touch attacks by 5 feet until the end of your turn by taking a -2 penalty to your AC until your next turn. You must decide to use this ability before you attempt any attacks on your turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Merciless Butchery",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dastardly Finish, sneak attack +5d6, studied target class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your talent for slaughter lets you dispatch helpless opponents before they can recover.",
+			"fill | 1",
+			"text | As a standard action that does not provoke attacks of opportunity, you can attempt a coup de grace against a cowering, helpless, or stunned opponent that you have designated as your studied target.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Nature Magic",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Knowledge (nature) 1 rank.",
+			"rule",
+			"fill | 1",
+			"text | You are able to use simple spells by drawing on nature's raw majesty.",
+			"fill | 1",
+			"text | You gain know direction as a constant spell-like ability, and can choose another druid orison you can cast as a spell-like ability once per day. Your caster level for both of these spell-like abilities is equal to your character level.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Orator",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Skill Focus (Linguistics).",
+			"rule",
+			"fill | 1",
+			"text | You're able to construct statements and commands that are much more convincing than their content would otherwise suggest.",
+			"fill | 1",
+			"text | You can use a Linguistics check in place of a Bluff check to tell a falsehood or conceal information, in place of a Diplomacy check to change the attitude of a creature, or in place of an Intimidate check to force a creature to cooperate. You must deliver your attempt in a language the target understands.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Pack Flanking",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Int 13, Combat Expertise, ability to acquire an animal companion.",
+			"rule",
+			"fill | 1",
+			"text | You and your companion creature are adept at fighting together against foes.",
+			"fill | 1",
+			"text | When you and your companion creature have this feat, your companion creature is adjacent to you or sharing your square, and you both threaten the same opponent, you are both considered to be flanking that opponent, regardless of your actual positioning.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Paralyzing Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +14.",
+			"rule",
+			"fill | 1",
+			"text | Finding just the right pressure point, you paralyze your foe with a single hit.",
+			"fill | 1",
+			"text | You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Paralyzing Strike forces a foe damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. A defender who fails this saving throw is paralyzed for 1 round, until just before your next turn. You can attempt to use Paralyzing Strike once per day for every 4 character levels you have, but no more than once per round. Constructs, incorporeal creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Pummeling Bully",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Improved RepositionAPG, Improved Trip, Improved Unarmed Strike, Pummeling Style; base attack bonus +9, brawler level 5th, or monk level 5th.",
+			"rule",
+			"fill | 1",
+			"text | Your combo has the chance to trip or move your target.",
+			"fill | 1",
+			"text | When you use Pummeling Style to make an entire full attack or flurry of blows against a single target, if you hit with any of your attacks, you can attempt a reposition or trip combat maneuver check as a free action.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Pummeling Charge",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Improved Unarmed Strike, Pummeling Style; base attack bonus +12, brawler level 8th, or monk level 8th.",
+			"rule",
+			"fill | 1",
+			"text | Your charge ends with a mobile combo.",
+			"fill | 1",
+			"text | You can charge and make a full attack or flurry of blows at the end of your charge as part of the charge action. You can use Pummeling Charge in this way only if all of your attacks qualify for using Pummeling Style against a single target.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Pummeling Style",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Improved Unarmed Strike; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your unarmed strikes weave together in an effortless combo, focusing on the spots you've weakened with the last hit.",
+			"fill | 1",
+			"text | Whenever you use a full-attack action or flurry of blows to make multiple attacks against a single opponent with unarmed strikes, total the damage from all hits before applying damage reduction. This ability works only with unarmed strikes, no matter what other abilities you might possess.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Quicken Blessing",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Access to a blessing's major power, blessings class feature.",
+			"rule",
+			"fill | 1",
+			"text | You can deliver one of your blessings with greater speed.",
+			"fill | 1",
+			"text | Choose one of your blessings that normally requires a standard action to use. You can expend two of your daily uses of blessings to deliver that blessing (regardless of whether it's a minor or major effect) as a swift action instead.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Rage Casting",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Blood casting class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your blood is raw and potent power, and you can burn it to empower your spells.",
+			"fill | 1",
+			"text | When you cast a bloodrager spell, as a swift action you can sacrif ice some of your life force to augment the spell's potency. You can opt to take up to 1d6 points of damage per spell level of the spell you are casting, choosing the amount of dice before rolling. You cannot overcome this damage in any way, and it cannot be taken from temporary hit points. For each of these damage dice you roll, the DC of the spell you are casting increases by 1.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Raging Absorption",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to cast 2nd-level bloodrager spells, bloodrage class feature.",
+			"rule",
+			"fill | 1",
+			"text | You can absorb hostile spell energy to refuel your continued bloodrage.",
+			"fill | 1",
+			"text | While you are bloodraging, if you successfully save against a damaging arcane spell that either targets you or includes you in its area, and you take no damage from that spell, you can absorb a portion of its arcane energy to replenish your bloodrage. You regain 1 round of bloodrage for every 2 levels of the spell you successfully saved against. You cannot use this feat to regain more rounds of bloodrage each day than your daily maximum number of rounds, nor can you ever exceed your maximum number of rounds.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Raging Blood",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Eldritch Heritage or sorcerer bloodline class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your blood boils with latent energy, filling you with an intense fury.",
+			"fill | 1",
+			"text | You gain the 1st-level bloodrager bloodline power for your bloodline. In addition, you gain the ability to enter a state similar to (but less powerful than) a bloodrager's bloodrage. You can enter this lesser bloodrage twice per day, for up to 4 rounds. During this lesser bloodrage, you gain a +2 morale bonus to Strength and Constitution, and no morale bonus on Will saving throws. Otherwise, this benefit is the same as the bloodrage class feature. If you have more than one bloodline, you choose the bloodline this applies to upon taking the feat.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Raging Concentration",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Blood casting class feature.",
+			"rule",
+			"fill | 1",
+			"text | When you are in the heat of rage, not even pain can break your concentration.",
+			"fill | 1",
+			"text | While in a bloodrage, you gain a bonus on concentration checks equal to the morale bonus granted to your Constitution by the bloodrage.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Ranged Study",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Weapon Focus with the chosen weapon, studied combat class feature.",
+			"rule",
+			"fill | 1",
+			"text | You can use a limited form of studied combat and studied strike with a weapon of your choice.",
+			"fill | 1",
+			"text | Choose one kind of ranged weapon. You gain the bonuses for studied combat with your chosen weapon and can use studied strike with your chosen weapon as long as the target of your studied strike is within 30 feet of you.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Recovered Rage",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Rage or raging song class feature.",
+			"rule",
+			"fill | 1",
+			"text | You regain rounds of rage or raging song performance when you drop a foe.",
+			"fill | 1",
+			"text | Whenever you reduce a foe to 0 or fewer hit points while you are raging or using raging song, you regain 1 round of rage or raging song (your choice if you have both abilities), as long as the number of Hit Dice that foe possesses is equal to or greater than 1/2 your character level. You cannot use this feat to regain more rounds of rage or raging song each day than your daily maximum number of rounds , nor can you ever exceed your maximum number of rounds.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Riving Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Arcane Strike, ability to cast arcane spells.",
+			"rule",
+			"fill | 1",
+			"text | When you infuse your weapon with arcane might, your attacks make foes more susceptible to magic.",
+			"fill | 1",
+			"text | If you have a weapon that is augmented by your Arcane Strike feat, when you damage a creature with an attack made with that weapon, that creature takes a -2 penalty on saving throws against spells and spell-like abilities. This effect lasts for 1 round.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Seething Hatred",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Studied target class feature.",
+			"rule",
+			"fill | 1",
+			"text | You've learned to channel your hatred of a particular type of creature into a devastating strike.",
+			"fill | 1",
+			"text | Select a creature type from the Ranger Favored Enemies table (Core Rulebook 64). When you designate a creature of this type as your studied target and hit it with a melee or ranged weapon attack, your favored target bonus on damage rolls against it is doubled.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Seize Advantage",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Opportune parry and riposte deed.",
+			"rule",
+			"fill | 1",
+			"text | You can take advantage of your foes when they overcommit on their attacks.",
+			"fill | 1",
+			"text | When your foe is using Power Attack and you successfully use the opportune parry and riposte deed to parry its attack and then respond with a riposte, you add your foe's current bonus on damage rolls from Power Attack to your own damage roll, but you do not take the penalty to hit from your foe's Power Attack.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Share Healing",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to acquire an animal companion, eidolon, familiar, or special mount.",
+			"rule",
+			"fill | 1",
+			"text | Your link with your companion creature allows you to share with it any healing magic that's cast upon you.",
+			"fill | 1",
+			"text | When you and your companion creature have this feat, your companion creature is adjacent to you or sharing your square, and you receive the benefit of a healing spell (whether from yourself or another source), you can divide the hit points healed evenly between yourself and your companion creature.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Skald's Vigor",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Raging song class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your song and your enthusiasm combine to invigorate you in battle.",
+			"fill | 1",
+			"text | While maintaining a raging song, you gain fast healing equal to the Strength bonus your song provides, starting in the round after you begin the song. If you stop maintaining your song, the fast healing ends, even if the effects of your song persist.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Skilled Rager",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Rage class feature.",
+			"rule",
+			"fill | 1",
+			"text | With practice, you've mastered your rage to allow yourself more versatility.",
+			"fill | 1",
+			"text | Choose one Charisma-, Dexterity-, or Intelligence-based skill. While you are raging, you can use this skill.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Slashing Grace",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 13, Weapon Finesse, Weapon Focus with chosen weapon.",
+			"rule",
+			"fill | 1",
+			"text | You can stab your enemies with slashing weapons.",
+			"fill | 1",
+			"text | When you take this feat, choose one kind of light or one-handed slashing weapon (such as the longsword). When wielding your chosen weapon one-handed, you can treat it as a one-handed piercing melee weapon for all feats and class abilities that require such a weapon (such as a swashbuckler's or a duelist's precise strike), and you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. The weapon must be one appropriate for your size. You do not gain this benefit while fighting with two weapons or using flurry of blows, or any time another hand is otherwise occupied.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Slayer's Feint",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.",
+			"rule",
+			"fill | 1",
+			"text | You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.",
+			"fill | 1",
+			"text | You can use Acrobatics instead of Bluff to feint in combat.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Slow Faller",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Acrobatics 5 ranks or slow fall class feature.",
+			"rule",
+			"fill | 1",
+			"text | You can reduce the amount of falling damage you take when you are close to a wall.",
+			"fill | 1",
+			"text | When you are within arm's reach of a wall, you can slow your descent, as long as you are not in heavy armor. You take damage as if the fall were 10 feet shorter than it actually is. This ability stacks with the slow fall class feature.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Spirit's Gift",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to acquire an animal companion or a familiar.",
+			"rule",
+			"fill | 1",
+			"text | You commune with a spirit of your choice, and it grants your animal companion or familiar a boon.",
+			"fill | 1",
+			"text | At the start of each day, you can commune with a single shaman spirit. (Although a shaman would need an hour of preparation, this action takes you no time.) Once during the next 24 hours, you can spend a standard action to grant your animal companion or familiar that shaman spirit's spirit animal ability for 1 minute per level in the class that grants your animal companion or familiar.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Spiritual Guardian",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Ability to cast spiritual weapon or spiritual ally, spirit magic class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your spiritual guardians are more powerful than those of most others.",
+			"fill | 1",
+			"text | Whenever you cast spiritual weapon, spiritual ally, or a similar spell that grants you a spiritual guardian, that guardian uses your shaman level instead of your base attack bonus to determine its base attack bonus, potentially granting it multiple attacks. Additionally, it gains a +2 bonus on caster level checks to overcome spell resistance as well as on damage rolls.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Spontaneous Nature's Ally",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Knowledge (nature) 5 ranks, ability to spontaneously cast cure spells or inf lict spells, Animal or Plant domain.",
+			"rule",
+			"fill | 1",
+			"text | Instead of casting a cure spell, you can instead cast summon nature's ally.",
+			"fill | 1",
+			"text | You can \"lose\" a prepared spell in order to cast any summon nature's ally spell of the same level or lower, instead of casting a cure spell or an inf lict spell as you normally would. For the purpose of this feat only, the summon nature's ally spells of the appropriate spell levels count as being on your spell list at the same spell level as for a druid.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Staggering Fist",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +2.",
+			"rule",
+			"fill | 1",
+			"text | When you engage in unarmed combat, you know just where to strike to stagger your foe.",
+			"fill | 1",
+			"text | When you damage a foe with your unarmed attack, you can also cause it to be staggered for 1 round (until just before your next turn). The target can avoid this with a successful Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier). You must declare that you are using this feat before you make your attack roll; thus, a failed attack roll ruins the attempt. You can attempt to use this feat once per day for every 4 character levels you have, but no more than once per round. Constructs, incorporeal creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Stalker's Focus",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Knowledge (nature) 3 ranks, Survival 3 ranks, no levels in a class that has the animal focus class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your affinity to the natural world allows you to adopt the focus of a single animal.",
+			"fill | 1",
+			"text | Choose a single type of animal to emulate from the hunter's animal focus class feature. Once per day, you or your animal companion (if you have one) can gain the benefit of that animal focus for 1 minute. Treat your character level as your hunter level for the purpose of determining the benefits granted by your chosen animal focus.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Steadfast Personality",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | ",
+			"rule",
+			"fill | 1",
+			"text | You rely on your sense of self to keep your mind clear.",
+			"fill | 1",
+			"text | Add your Charisma modifier instead of your Wisdom bonus to Will saves. If you have a Wisdom penalty, you must apply both your Wisdom penalty and your Charisma modifier.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Stouthearted",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Raging song class feature.",
+			"rule",
+			"fill | 1",
+			"text | You fight back your fear by voicing the song in your heart.",
+			"fill | 1",
+			"text | While you are maintaining a raging song, if you fail a saving throw against a fear effect, you can expend a round of performing to reroll your saving throw as an immediate action. You must keep this second result, even if it lower.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Studied Combatant",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Int 13, Amateur Investigator, base attack bonus +6, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your inspiration guides your strikes when you take a moment to assess your foe.",
+			"fill | 1",
+			"text | You can expend one use of inspiration as a move action to study a single enemy that you can see. When you do so, you gain a +2 insight bonus on melee attack rolls and a +2 bonus on damage rolls for a number of rounds equal to your Intelligence modifier. The bonus on damage rolls is precision damage, and is not multiplied on a critical hit. Once affected by this feat, a target cannot be affect by your use of it again for 24 hours.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Talented Magician",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Major magic rogue talent, minor magic rogue talent.",
+			"rule",
+			"fill | 1",
+			"text | Roguish magic comes easily to you.",
+			"fill | 1",
+			"text | You gain an additional daily use of each of your minor magic and major magic rogue talents.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Twinned Feint",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Cha 13.",
+			"rule",
+			"fill | 1",
+			"text | You can fool two opponents with a single feint.",
+			"fill | 1",
+			"text | As a standard action, you can attempt to feint against a foe within your reach. If you succeed at the feint, you can make an additional feint attempt against a foe that is adjacent to the first one and also within reach. You can attempt only one additional feint per action with this feat. When you use this feat, you take a -2 penalty to your AC until your next turn.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Twist Away",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Evasion.",
+			"rule",
+			"fill | 1",
+			"text | Your quick reflexes and dexterous movements make up for your lack of stamina.",
+			"fill | 1",
+			"text | While you are wearing light armor or no armor, if you are forced to attempt a Fortitude saving throw, you can use an immediate action to instead attempt a Ref lex saving throw (at the same DC). If you succeed at this saving throw and the attack has a reduced effect on a successful save, you avoid the effect entirely. Whether the saving throw is successful or not, you are staggered until the end of your next turn. If you are prevented from becoming staggered,  you can't use Twist Away , nor can you ignore the staggered condition from Twist Away or remove it early.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Undersized Mount",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Ride 1 rank.",
+			"rule",
+			"fill | 1",
+			"text | You've learned techniques that allow you to ride beasts of smaller sizes than normal.",
+			"fill | 1",
+			"text | You can ride creatures of your size category, although encumbrance or other factors might limit how you can use this ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Unfettered Familiar",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Caster level 5th, familiar class feature.",
+			"rule",
+			"fill | 1",
+			"text | You can channel touch spells through your familiar without needing to be adjacent to it.",
+			"fill | 1",
+			"text | Once per day, you can cast a touch spell without being in contact with your familiar and designate your familiar as the \"toucher.\" You do not require line of sight to your familiar to use this ability, but you must be within 30 feet of your familiar when you cast the spell, and if you can't see or hear your familiar, you must at least be able to speak with it.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "War Blessing",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Mystery or domain class feature.",
+			"rule",
+			"fill | 1",
+			"text | Your fervent call to your deity imbues you with a temporary blessing.",
+			"fill | 1",
+			"text | Choose two warpriest blessings when you take this feat. Each of these blessings must be tied to a domain granted by your deity or to one of the two domains that represent your spiritual inclination and abilities. Twice per day, you can call upon the minor blessing from one or the other of your chosen blessings. This ability otherwise acts like the warpriest blessings class feature. Your effective warpriest level is the highest level that you have in the class that has the mystery or domain class feature.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Weapon Of The Chosen",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Weapon Focus with deity's favored weapon, must worship and receive spells from a deity.",
+			"rule",
+			"fill | 1",
+			"text | The inf luence of your deity guides your favored weapon.",
+			"fill | 1",
+			"text | As a swift action, you can call upon your deity to guide an attack you make with your deity's favored weapon. On your next attack in that round with that weapon, your weapon counts as magical for the purpose of overcoming damage reduction or striking an incorporeal creature. If your attack misses because of concealment, you can reroll your miss chance one time to see whether you actually hit.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Winter's Strike",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Your attacks aff lict your foes with the relentless fatigue of a winter storm.",
+			"fill | 1",
+			"text | A number of times per day equal to your Wisdom modifier (minimum 1), when you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), your strike saps the strength of your opponent. The creature hit must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom modifier) or become fatigued for a number of rounds equal to your Wisdom modifier (minimum 1). You can choose to use this ability as a free action after you hit the target with the attack. This is a supernatural ability.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Wounded Paw Gambit",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | Combat",
+			"property | prerequisites | Broken Wing GambitUC, Bluff 5 ranks.",
+			"rule",
+			"fill | 1",
+			"text | Your enemy sees you as an easy mark, but doesn't notice your allies poised to shoot.",
+			"fill | 1",
+			"text | Whenever you use Broken Wing Gambit and an opponent attacks you as a result, each ally who has this feat and is within 30 feet of that opponent can attempt a ranged attack against it as an immediate action. The ally's ranged weapon must be in hand, loaded, and ready to be fired or thrown in order to make this attack possible. An ally who has this feat and Broken Wing Gambit can instead use Broken Wing Gambit to attempt an attack of opportunity against the foe, but cannot attempt both that attack of opportunity and this ranged attack.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	},
+	{
+		"count": 1,
+		"color": "Maroon",
+		"title": "Resilient Armor",
+		"icon": "enlightenment",
+		"icon_back": "enlightenment",
+		"contents": [
+			"rule",
+			"subtitle | General",
+			"property | prerequisites | Divine bond (armor or shield) or sacred armor class feature.",
+			"rule",
+			"fill | 1",
+			"text | When you enhance your armor or shield, you gain a measure of damage reduction.",
+			"fill | 1",
+			"text | While your armor or shield is under the effect of your divine bond or your sacred armor ability, you gain an amount of damage reduction equal to your armor's enhancement bonus (including the bonus from your divine bond or sacred armor) against the first attack to strike you in each round. An adamantine weapon overcomes this damage reduction, but any attack against you made with such a weapon does not count against this effect's duration.",
+			"fill | 1"
+		],
+		"tags": [
+			"Advanced Class Guide"
+		]
+	}
+]

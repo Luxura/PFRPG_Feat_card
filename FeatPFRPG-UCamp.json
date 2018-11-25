@@ -1,0 +1,562 @@
+[{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Accursed",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must carry a curse that can be lifted only by a quest or similar great undertaking, or have the Cursed Birth background.",
+            "rule",
+            "fill | 1",
+            "text |Your curse weighs down your soul like a millstone around your neck.",
+            "fill | 1",
+            "text |You gain spell resistance equal to 5 + your character level, as the curse interferes with all magic. Unlike most spell resistance, it can't voluntarily be lowered, though your own spells and magic items still automatically affect you.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Arisen",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have been slain and brought back from the dead, or have the Left to Die or Cursed Birth background.",
+            "rule",
+            "fill | 1",
+            "text |Escaping death strengthened your bond to life, but fills you with a need for answers.",
+            "fill | 1",
+            "text |You don't die until your negative hit point total is equal to or greater than 4 + your Constitution score. Once per day as a standard action, you can force yourself to carry on by strength of will alone, gaining 1 temporary hit point per hit die. These temporary hit points last for 10 minutes.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Battlefield Healer",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must successfully cast a conjuration (healing) spell on an ally after being hit by an attack of opportunity, or have the Battle, Chaplain, or Healed background.",
+            "rule",
+            "fill | 1",
+            "text |In even the fiercest battles, you risk life and limb to save your allies.",
+            "fill | 1",
+            "text |When attempting a concentration check caused by receiving damage (including ongoing damage), you reduce the damage taken by 50% for the purposes of determining the concentration check DC.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Champion",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have defeated a single challenging foe without any aid from another, or have the Champion of a God, Champion of the People, Competition Champion, or Gladiator background.",
+            "rule",
+            "fill | 1",
+            "text |You must prove yourself through single combat.",
+            "fill | 1",
+            "text |As a swift action, you can declare a single combat challenge to one foe within 50 feet and in line of sight. Upon doing so, you gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against that foe as long as no one else threatens that opponent or until the single combat challenge ends. If another combatant attacks you or your foe, the challenge ends and you take a -2 penalty on attack rolls and to AC for 1 round. Though you can declare a single combat challenge at will, once you declare it on a foe you can't declare it on the same foe for another 24 hours.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Damned",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have had friendly contact with an evil-aligned outsider that would qualify as a challenging foe, have a fiend-related sorcerous bloodline such as abyssal or infernal, have direct fiendish ancestry (such as being a tiefling or half-fiend), or have the Fiend Raised or The Fiend background.",
+            "rule",
+            "fill | 1",
+            "text |From your earliest days, you were destined to sacrifice everything in your quest for power.",
+            "fill | 1",
+            "text |You gain a +2 bonus on Charisma-based checks involving evil-aligned outsiders and +1 bonus to the DC of spells and spell-like abilities you use against such creatures. You take a -2 penalty on Charisma-based checks involving good-aligned outsiders.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Deny The Reaper",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have witnessed the death of a close companion in battle-a death that could have been prevented, such as from bleeding, failure to stabilize, or ongoing poison damage-or have the Death in the Family or The War background.",
+            "rule",
+            "fill | 1",
+            "text |The lives you could not save stay with you to your final breath.",
+            "fill | 1",
+            "text |You gain a +2 bonus on Heal checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don't take a penalty when treating deadly wounds without a healing kit.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Eldritch Researcher",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have created a new spell, or have The Way Things Work background.",
+            "rule",
+            "fill | 1",
+            "text |You seek new applications for magical energy.",
+            "fill | 1",
+            "text |When casting a spell you've created, add 1 to your caster level. In addition, you gain a +2 bonus on Spellcraft checks. If you have 10 or more ranks in Spellcraft, this bonus increases to +4.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Fearless Zeal",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must be ordained as a sacred (or profane) champion of your faith by a high-ranking member of its clergy, or have the Devoted, Faith-Bringer, or Moral Debt background. Such an honor goes above and beyond the normal oaths required of a cleric or paladin.",
+            "rule",
+            "fill | 1",
+            "text |You're willing to lay down your life for your faith.",
+            "fill | 1",
+            "text |Once per day, you can add a +2 bonus on any single attack roll, caster level check, saving throw, or skill check. You must choose to add this bonus after the die has been rolled and success or failure determined, but before any results (such as damage) are rolled and applied. If you have 10 or more levels or hit dice, this bonus increases to +4.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Feral Heart",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have reverted to savage behavior through a traumatic event or extended period in the wilderness, or have the Raised by Beasts background.",
+            "rule",
+            "fill | 1",
+            "text |In your chest beasts the heart of a wild beast.",
+            "fill | 1",
+            "text |Whenever you receive a morale bonus on Strength or attack rolls (such as from heroism or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Foeslayer",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have been defeated and robbed of at least half your possessions by a particular group of humanoids or monstrous humanoids, or have the An Eye for an Eye, Hated Foe, Raiders, or Vengeance background. You may choose a specific race, such as duergar, or a broader group, such as goblinoids. At the GM's option, you may instead choose residents of a particular country, settlement, or tribe.",
+            "rule",
+            "fill | 1",
+            "text |Your bitter feud with your enemies can be quenched only with blood.",
+            "fill | 1",
+            "text |The save DCs for your spells or abilities increase by 1 when you use them against the chosen group, and you gain a +1 dodge bonus to AC against their attacks.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Forgotten Past",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have suffered permanent memory loss or have the Reincarnated background.",
+            "rule",
+            "fill | 1",
+            "text |A pivotal event from your past eludes your memory.",
+            "fill | 1",
+            "text |The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on Perception checks. If you have 10 or more ranks in Perception, this bonus increases to +4.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Glimpse Beyond",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have faced an undead, evil outsider, or aberration with a CR greater than your level +4, or have the Raised Among the Dead or The Dead One background.",
+            "rule",
+            "fill | 1",
+            "text |You have glimpsed the madness at the edges of reality.",
+            "fill | 1",
+            "text |You gain a +2 bonus on Knowledge (dungeoneering) checks to identify the vulnerabilities and powers of aberrations, Knowledge (planes) checks to identify the vulnerabilities and powers of evil outsiders, and Knowledge (religion) checks to identify the vulnerabilities and powers of undead, and you can make such checks untrained. If you have 10 or more ranks in any of these Knowledge skills, the bonus increases to +4 for the appropriate skill. In addition, you gain a +2 bonus on saves against fear effects.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Innocent Blood",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must slay at least 50 intelligent noncombatants for either your own personal gain or for no cause at all, or have the Bloodthirsty, First Kill, or The Kill background.",
+            "rule",
+            "fill | 1",
+            "text |With their deaths, the pitiful wretches that inhabit this world open your path to greatness.",
+            "fill | 1",
+            "text |You gain a +2 bonus on Intimidate checks. If you have 10 or more ranks in Intimidate, this bonus increases to +4. Each time you slay an intelligent creature, you gain a +1 bonus on attack rolls and caster level checks for 1 minute (this bonus does not stack with itself ).",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Liberator",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have been enslaved for at least 6 months, or have the Imprisoned or Kidnapped background.",
+            "rule",
+            "fill | 1",
+            "text |Your time in shackles has forever marked your soul.",
+            "fill | 1",
+            "text |You gain a +1 bonus on attack rolls, weapon damage rolls, and skill checks when your actions would directly lead to freeing prisoners or slaves.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Lost Legacy",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | Your family must have claim to an inherited title or position that no longer belongs to them, or have the Dishonored Family background. You can take this feat even if you have no knowledge of this lost family title.",
+            "rule",
+            "fill | 1",
+            "text |What once belonged to your family shall be yours again.",
+            "fill | 1",
+            "text |You gain a +1 bonus on Charisma-based ability checks and skill checks.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Magnum Opus",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must either have sold five or more self-created works of art worth a total of at least 5,000 gp, have performed at least five performances for audiences of 50 or more while achieving a great performance result or better on your Perform check, or have the Virtuoso background.",
+            "rule",
+            "fill | 1",
+            "text |You seek to create a true masterpiece.",
+            "fill | 1",
+            "text |Choose a single Craft or Perform skill. Whenever you take 10 with this skill, treat your die result as a 15 instead.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Monument Builder",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | Knowledge (engineering) 1 rank, and you must have built a structure worth at least 5,000 gp.",
+            "rule",
+            "fill | 1",
+            "text |Your inspired architecture shall make your name immortal.",
+            "fill | 1",
+            "text |When you supervise a construction project or do the construction yourself, reduce your raw material costs by 10%. You gain a +2 bonus on Knowledge (engineering) checks. If you have 10 or more ranks in Knowledge (engineering), this bonus increases to +4.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Nation Builder",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have explored and claimed an area of at least 100 square miles.",
+            "rule",
+            "fill | 1",
+            "text |The land calls to you to conquer it and forge a realm all your own.",
+            "fill | 1",
+            "text |When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on Perception checks, Stealth checks, and Survival checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Nemesis",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have at least one enemy who wishes to cause you great harm. If you have multiple enemies, the GM may keep the specific nemesis secret, or have many of your enemies work together against you. If your nemesis is not already a challenging foe, it either advances in strength to become a challenging foe or allies with others to achieve a higher challenge rating.",
+            "rule",
+            "fill | 1",
+            "text |A past enemy seeks your ruin.",
+            "fill | 1",
+            "text |Having a nemesis drives you to excel in training. For each new level you gain in a favored class, including the level you gained when you chose this feat, you can choose two benefits instead of one. One of these benefits must be either a bonus hit point or a bonus skill point, even if other options are available.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Prophet",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | Ability to cast divine spells, and you must either have received a vision from your god (or another appropriate supernatural entity) or have the Marked by the Gods background.",
+            "rule",
+            "fill | 1",
+            "text |The truth has been revealed, and you have been chosen to deliver it.",
+            "fill | 1",
+            "text |If you are nonevil and worship a nonevil deity, whenever you cast a beneficial spell on an ally you gain a +1 sacred bonus to AC for 1 round per spell level. If you are evil or worship an evil deity, whenever you cast a harmful spell on an enemy you gain a +1 profane bonus to AC for 1 round per spell level. Casting a spell on yourself does not count unless it also affects an ally.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Redemption",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have lost class features by violating the code of conduct of a class that possesses such a code, or have the Dishonored Family background.",
+            "rule",
+            "fill | 1",
+            "text |Your past failure haunts you and drives you on.",
+            "fill | 1",
+            "text |As an immediate action, you can add a +1 bonus to the result of an ability check, attack roll, saving throw, or skill check you have just rolled by becoming shaken for 1 minute. You must choose before the result is revealed.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Shamed",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have been publicly embarrassed, or must have the Bastard Born background. If the embarrassment didn't cause significant harm to your personal honor or social standing, it does not qualify for the feat prerequisites. The humiliation doesn't need to have been unjustified.",
+            "rule",
+            "fill | 1",
+            "text |A past humiliation haunts you to this day.",
+            "fill | 1",
+            "text |Being observed drives you to excel. When you're in a conf lict that is being observed by others not involved in the conf lict, you gain a +1 bonus on attack rolls and skill checks.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Stronghold",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have the Leadership feat and must lead at least 10 combat-capable followers (such as fighters or rangers).",
+            "rule",
+            "fill | 1",
+            "text |You seek to build a bastion against which your enemies shall break like water against the rocks.",
+            "fill | 1",
+            "text |You can spend a move action to give battle orders to your troops, granting creatures under your command within 60 feet your choice of a +1 morale bonus on attack rolls, a +1 dodge bonus to AC, or a +1 bonus on a single type of saving throw. All creatures must receive the same benefit. You can't use this benefit on allies not under your command. This is a language-dependent, mind-affecting effect.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Thief Of Legend",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have stolen at least 1,000 gp worth of treasure without being caught and kept mementos of these thefts worth at least 500 gp, or have the Greed background.",
+            "rule",
+            "fill | 1",
+            "text |More than just a burglar, you aspire to commit crimes of legendary stature.",
+            "fill | 1",
+            "text |Once per day when you attempt a Disable Device check to open a lock or Sleight of Hand check to pick a pocket, you can roll twice and take the better result.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Town Tamer",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have 5 ranks in Intimidate and a personal motivation to clean up a particular town (such as an old friend calling in a favor, or seeking a place to settle down), or you must have the Bounty Hunter or Champion of the People background.",
+            "rule",
+            "fill | 1",
+            "text |This town needs cleaning up, and you're just the one to do it.",
+            "fill | 1",
+            "text |Choose a particular settlement. When you're in your chosen settlement, the DC of Intimidate checks made against you increases by 10. You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against undesirable elements like criminals or ruffians in your chosen settlement. This bonus increases to +2 for combat maneuver checks.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "True Love",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have found love with a person you can't be with, have a current lover, or have the Current Lover, For Love, or The Lover background. Possible complications include distance, your love being with another, your feelings being unrequited, or your relationship being forbidden.",
+            "rule",
+            "fill | 1",
+            "text |You found love, only to have it denied by the cruelty of fate.",
+            "fill | 1",
+            "text |You add 1 to the save DC and caster level of your spells and spell-like abilities with the emotion descriptor. In addition, you gain a +2 bonus on Sense Motive checks. If you have 10 or more ranks in Sense Motive, this bonus increases to +4.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Unforgotten",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have a close relative, spouse, or other person dear to your heart who never returned from a journey, was captured, or otherwise vanished with little trace, or you have the Major Disaster background.",
+            "rule",
+            "fill | 1",
+            "text |You search for a person dear to you-lost, but you pray not dead.",
+            "fill | 1",
+            "text |Your dogged determination reduces any nonlethal damage you take by 1 point, to a minimum of 1 point of nonlethal damage. You also gain a +1 bonus on Will saves.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  },{
+        "count": 1,
+        "color": "Maroon",
+        "title": "Vengeance",
+        "icon": "enlightenment",
+        "icon_back": "enlightenment",
+        "contents": [
+            "rule",
+            "subtitle | Story",
+            "property | prerequisites | You must have a close family member or other loved one slain by a specific challenging foe or that foe's minions, or have the Raiders or Vengeance background.",
+            "rule",
+            "fill | 1",
+            "text |The need to avenge those you loved drives you to great deeds.",
+            "fill | 1",
+            "text |You gain a +1 bonus on saving throws, attack rolls, and weapon damage rolls against your chosen foe and known minions of that foe.",
+            "fill | 1"
+        ],
+        "tags": [
+          "Ultimate Campaign"
+        ]
+  }
+]

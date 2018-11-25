@@ -9,8 +9,11 @@ Due to some formating issue, most feat have much longer description than other, 
    Cards/page: 2x2
 
 Etape 1: Chose and download one/all of the file,
+
 Etape 2: Go to http://crobi.github.io/rpg-cards/generator/generate.html and use the "Load from file" option,
+
 Etape 3: ???
+
 Etape 4: profit
 
 All credits go to Crobi (https://github.com/crobi) and Paizo Inc.

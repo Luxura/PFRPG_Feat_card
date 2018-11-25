@@ -12,8 +12,12 @@ Etape 1: Chose and download one/all of the file,
 
 Etape 2: Go to http://crobi.github.io/rpg-cards/generator/generate.html and use the "Load from file" option,
 
-Etape 3: ???
+Etape 3: In the "Arrangement field" chose the "Side by side or Front side only" option.
 
-Etape 4: profit
+Etape 4: Click Generate
+
+Etape 5: ???
+
+Etape 6: profit
 
 All credits go to Crobi (https://github.com/crobi) and Paizo Inc.
